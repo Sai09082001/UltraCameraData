@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "baseUrl": "https://raw.githubusercontent.com/Sai09082001/UltraCameraData/master/",
   "frame": [
     {
@@ -995,111 +995,75 @@
       "items": [
         {
           "id": 0,
-          "url": "background/Autumn/1.jpg",
-          "imageUrl": "background/Autumn/1.jpg",
-          "previewUrl": "background/Autumn/1.jpg"
+          "imageUrl": "background/Autumn/1.jpg"
         },
         {
           "id": 1,
-          "url": "background/Autumn/3.jpg",
-          "imageUrl": "background/Autumn/3.jpg",
-          "previewUrl": "background/Autumn/3.jpg"
+          "imageUrl": "background/Autumn/3.jpg"
         },
         {
           "id": 2,
-          "url": "background/Autumn/4.jpg",
-          "imageUrl": "background/Autumn/4.jpg",
-          "previewUrl": "background/Autumn/4.jpg"
+          "imageUrl": "background/Autumn/4.jpg"
         },
         {
           "id": 3,
-          "url": "background/Autumn/5.jpg",
-          "imageUrl": "background/Autumn/5.jpg",
-          "previewUrl": "background/Autumn/5.jpg"
+          "imageUrl": "background/Autumn/5.jpg"
         },
         {
           "id": 4,
-          "url": "background/Autumn/6.jpg",
-          "imageUrl": "background/Autumn/6.jpg",
-          "previewUrl": "background/Autumn/6.jpg"
+          "imageUrl": "background/Autumn/6.jpg"
         },
         {
           "id": 5,
-          "url": "background/Autumn/7.jpg",
-          "imageUrl": "background/Autumn/7.jpg",
-          "previewUrl": "background/Autumn/7.jpg"
+          "imageUrl": "background/Autumn/7.jpg"
         },
         {
           "id": 6,
-          "url": "background/Autumn/8.jpg",
-          "imageUrl": "background/Autumn/8.jpg",
-          "previewUrl": "background/Autumn/8.jpg"
+          "imageUrl": "background/Autumn/8.jpg"
         },
         {
           "id": 7,
-          "url": "background/Autumn/10.jpg",
-          "imageUrl": "background/Autumn/10.jpg",
-          "previewUrl": "background/Autumn/10.jpg"
+          "imageUrl": "background/Autumn/10.jpg"
         },
         {
           "id": 8,
-          "url": "background/Autumn/11.jpg",
-          "imageUrl": "background/Autumn/11.jpg",
-          "previewUrl": "background/Autumn/11.jpg"
+          "imageUrl": "background/Autumn/11.jpg"
         },
         {
           "id": 9,
-          "url": "background/Autumn/12.jpg",
-          "imageUrl": "background/Autumn/12.jpg",
-          "previewUrl": "background/Autumn/12.jpg"
+          "imageUrl": "background/Autumn/12.jpg"
         },
         {
           "id": 10,
-          "url": "background/Autumn/13.jpg",
-          "imageUrl": "background/Autumn/13.jpg",
-          "previewUrl": "background/Autumn/13.jpg"
+          "imageUrl": "background/Autumn/13.jpg"
         },
         {
           "id": 11,
-          "url": "background/Autumn/14.jpg",
-          "imageUrl": "background/Autumn/14.jpg",
-          "previewUrl": "background/Autumn/14.jpg"
+          "imageUrl": "background/Autumn/14.jpg"
         },
         {
           "id": 12,
-          "url": "background/Autumn/15.jpg",
-          "imageUrl": "background/Autumn/15.jpg",
-          "previewUrl": "background/Autumn/15.jpg"
+          "imageUrl": "background/Autumn/15.jpg"
         },
         {
           "id": 13,
-          "url": "background/Autumn/16.jpg",
-          "imageUrl": "background/Autumn/16.jpg",
-          "previewUrl": "background/Autumn/16.jpg"
+          "imageUrl": "background/Autumn/16.jpg"
         },
         {
           "id": 14,
-          "url": "background/Autumn/17.jpg",
-          "imageUrl": "background/Autumn/17.jpg",
-          "previewUrl": "background/Autumn/17.jpg"
+          "imageUrl": "background/Autumn/17.jpg"
         },
         {
           "id": 15,
-          "url": "background/Autumn/18.jpg",
-          "imageUrl": "background/Autumn/18.jpg",
-          "previewUrl": "background/Autumn/18.jpg"
+          "imageUrl": "background/Autumn/18.jpg"
         },
         {
           "id": 16,
-          "url": "background/Autumn/19.jpg",
-          "imageUrl": "background/Autumn/19.jpg",
-          "previewUrl": "background/Autumn/19.jpg"
+          "imageUrl": "background/Autumn/19.jpg"
         },
         {
           "id": 17,
-          "url": "background/Autumn/20.jpg",
-          "imageUrl": "background/Autumn/20.jpg",
-          "previewUrl": "background/Autumn/20.jpg"
+          "imageUrl": "background/Autumn/20.jpg"
         }
       ]
     },
@@ -1109,117 +1073,79 @@
       "items": [
         {
           "id": 0,
-          "url": "background/Birthday/1.jpg",
-          "imageUrl": "background/Birthday/1.jpg",
-          "previewUrl": "background/Birthday/1.jpg"
+          "imageUrl": "background/Birthday/1.jpg"
         },
         {
           "id": 1,
-          "url": "background/Birthday/2.jpg",
-          "imageUrl": "background/Birthday/2.jpg",
-          "previewUrl": "background/Birthday/2.jpg"
+          "imageUrl": "background/Birthday/2.jpg"
         },
         {
           "id": 2,
-          "url": "background/Birthday/3.jpg",
-          "imageUrl": "background/Birthday/3.jpg",
-          "previewUrl": "background/Birthday/3.jpg"
+          "imageUrl": "background/Birthday/3.jpg"
         },
         {
           "id": 3,
-          "url": "background/Birthday/4.jpg",
-          "imageUrl": "background/Birthday/4.jpg",
-          "previewUrl": "background/Birthday/4.jpg"
+          "imageUrl": "background/Birthday/4.jpg"
         },
         {
           "id": 4,
-          "url": "background/Birthday/5.jpg",
-          "imageUrl": "background/Birthday/5.jpg",
-          "previewUrl": "background/Birthday/5.jpg"
+          "imageUrl": "background/Birthday/5.jpg"
         },
         {
           "id": 5,
-          "url": "background/Birthday/6.jpg",
-          "imageUrl": "background/Birthday/6.jpg",
-          "previewUrl": "background/Birthday/6.jpg"
+          "imageUrl": "background/Birthday/6.jpg"
         },
         {
           "id": 6,
-          "url": "background/Birthday/7.jpg",
-          "imageUrl": "background/Birthday/7.jpg",
-          "previewUrl": "background/Birthday/7.jpg"
+          "imageUrl": "background/Birthday/7.jpg"
         },
         {
           "id": 7,
-          "url": "background/Birthday/8.jpg",
-          "imageUrl": "background/Birthday/8.jpg",
-          "previewUrl": "background/Birthday/8.jpg"
+          "imageUrl": "background/Birthday/8.jpg"
         },
         {
           "id": 8,
-          "url": "background/Birthday/9.jpg",
-          "imageUrl": "background/Birthday/9.jpg",
-          "previewUrl": "background/Birthday/9.jpg"
+          "imageUrl": "background/Birthday/9.jpg"
         },
         {
           "id": 9,
-          "url": "background/Birthday/10.jpg",
-          "imageUrl": "background/Birthday/10.jpg",
-          "previewUrl": "background/Birthday/10.jpg"
+          "imageUrl": "background/Birthday/10.jpg"
         },
         {
           "id": 10,
-          "url": "background/Birthday/11.jpg",
-          "imageUrl": "background/Birthday/11.jpg",
-          "previewUrl": "background/Birthday/11.jpg"
+          "imageUrl": "background/Birthday/11.jpg"
         },
         {
           "id": 11,
-          "url": "background/Birthday/12.jpg",
-          "imageUrl": "background/Birthday/12.jpg",
-          "previewUrl": "background/Birthday/12.jpg"
+          "imageUrl": "background/Birthday/12.jpg"
         },
         {
           "id": 12,
-          "url": "background/Birthday/13.jpg",
-          "imageUrl": "background/Birthday/13.jpg",
-          "previewUrl": "background/Birthday/13.jpg"
+          "imageUrl": "background/Birthday/13.jpg"
         },
         {
           "id": 13,
-          "url": "background/Birthday/14.jpg",
-          "imageUrl": "background/Birthday/14.jpg",
-          "previewUrl": "background/Birthday/14.jpg"
+          "imageUrl": "background/Birthday/14.jpg"
         },
         {
           "id": 14,
-          "url": "background/Birthday/15.jpg",
-          "imageUrl": "background/Birthday/15.jpg",
-          "previewUrl": "background/Birthday/15.jpg"
+          "imageUrl": "background/Birthday/15.jpg"
         },
         {
           "id": 15,
-          "url": "background/Birthday/16.jpg",
-          "imageUrl": "background/Birthday/16.jpg",
-          "previewUrl": "background/Birthday/16.jpg"
+          "imageUrl": "background/Birthday/16.jpg"
         },
         {
           "id": 16,
-          "url": "background/Birthday/17.jpg",
-          "imageUrl": "background/Birthday/17.jpg",
-          "previewUrl": "background/Birthday/17.jpg"
+          "imageUrl": "background/Birthday/17.jpg"
         },
         {
           "id": 17,
-          "url": "background/Birthday/18.jpg",
-          "imageUrl": "background/Birthday/18.jpg",
-          "previewUrl": "background/Birthday/18.jpg"
+          "imageUrl": "background/Birthday/18.jpg"
         },
         {
           "id": 18,
-          "url": "background/Birthday/19.jpg",
-          "imageUrl": "background/Birthday/19.jpg",
-          "previewUrl": "background/Birthday/19.jpg"
+          "imageUrl": "background/Birthday/19.jpg"
         }
       ]
     },
@@ -1229,111 +1155,75 @@
       "items": [
         {
           "id": 0,
-          "url": "background/Halloween/1.jpg",
-          "imageUrl": "background/Halloween/1.jpg",
-          "previewUrl": "background/Halloween/1.jpg"
+          "imageUrl": "background/Halloween/1.jpg"
         },
         {
           "id": 1,
-          "url": "background/Halloween/2.jpg",
-          "imageUrl": "background/Halloween/2.jpg",
-          "previewUrl": "background/Halloween/2.jpg"
+          "imageUrl": "background/Halloween/2.jpg"
         },
         {
           "id": 2,
-          "url": "background/Halloween/3.jpg",
-          "imageUrl": "background/Halloween/3.jpg",
-          "previewUrl": "background/Halloween/3.jpg"
+          "imageUrl": "background/Halloween/3.jpg"
         },
         {
           "id": 3,
-          "url": "background/Halloween/4.jpg",
-          "imageUrl": "background/Halloween/4.jpg",
-          "previewUrl": "background/Halloween/4.jpg"
+          "imageUrl": "background/Halloween/4.jpg"
         },
         {
           "id": 4,
-          "url": "background/Halloween/5.jpg",
-          "imageUrl": "background/Halloween/5.jpg",
-          "previewUrl": "background/Halloween/5.jpg"
+          "imageUrl": "background/Halloween/5.jpg"
         },
         {
           "id": 5,
-          "url": "background/Halloween/6.jpg",
-          "imageUrl": "background/Halloween/6.jpg",
-          "previewUrl": "background/Halloween/6.jpg"
+          "imageUrl": "background/Halloween/6.jpg"
         },
         {
           "id": 6,
-          "url": "background/Halloween/8.jpg",
-          "imageUrl": "background/Halloween/8.jpg",
-          "previewUrl": "background/Halloween/8.jpg"
+          "imageUrl": "background/Halloween/8.jpg"
         },
         {
           "id": 7,
-          "url": "background/Halloween/9.jpg",
-          "imageUrl": "background/Halloween/9.jpg",
-          "previewUrl": "background/Halloween/9.jpg"
+          "imageUrl": "background/Halloween/9.jpg"
         },
         {
           "id": 8,
-          "url": "background/Halloween/11.jpg",
-          "imageUrl": "background/Halloween/11.jpg",
-          "previewUrl": "background/Halloween/11.jpg"
+          "imageUrl": "background/Halloween/11.jpg"
         },
         {
           "id": 9,
-          "url": "background/Halloween/12.jpg",
-          "imageUrl": "background/Halloween/12.jpg",
-          "previewUrl": "background/Halloween/12.jpg"
+          "imageUrl": "background/Halloween/12.jpg"
         },
         {
           "id": 10,
-          "url": "background/Halloween/13.jpg",
-          "imageUrl": "background/Halloween/13.jpg",
-          "previewUrl": "background/Halloween/13.jpg"
+          "imageUrl": "background/Halloween/13.jpg"
         },
         {
           "id": 11,
-          "url": "background/Halloween/14.jpg",
-          "imageUrl": "background/Halloween/14.jpg",
-          "previewUrl": "background/Halloween/14.jpg"
+          "imageUrl": "background/Halloween/14.jpg"
         },
         {
           "id": 12,
-          "url": "background/Halloween/15.jpg",
-          "imageUrl": "background/Halloween/15.jpg",
-          "previewUrl": "background/Halloween/15.jpg"
+          "imageUrl": "background/Halloween/15.jpg"
         },
         {
           "id": 13,
-          "url": "background/Halloween/16.jpg",
-          "imageUrl": "background/Halloween/16.jpg",
-          "previewUrl": "background/Halloween/16.jpg"
+          "imageUrl": "background/Halloween/16.jpg"
         },
         {
           "id": 14,
-          "url": "background/Halloween/17.jpg",
-          "imageUrl": "background/Halloween/17.jpg",
-          "previewUrl": "background/Halloween/17.jpg"
+          "imageUrl": "background/Halloween/17.jpg"
         },
         {
           "id": 15,
-          "url": "background/Halloween/18.jpg",
-          "imageUrl": "background/Halloween/18.jpg",
-          "previewUrl": "background/Halloween/18.jpg"
+          "imageUrl": "background/Halloween/18.jpg"
         },
         {
           "id": 16,
-          "url": "background/Halloween/19.jpg",
-          "imageUrl": "background/Halloween/19.jpg",
-          "previewUrl": "background/Halloween/19.jpg"
+          "imageUrl": "background/Halloween/19.jpg"
         },
         {
           "id": 17,
-          "url": "background/Halloween/20.jpg",
-          "imageUrl": "background/Halloween/20.jpg",
-          "previewUrl": "background/Halloween/20.jpg"
+          "imageUrl": "background/Halloween/20.jpg"
         }
       ]
     },
@@ -1343,123 +1233,83 @@
       "items": [
         {
           "id": 0,
-          "url": "background/Memory/1.jpg",
-          "imageUrl": "background/Memory/1.jpg",
-          "previewUrl": "background/Memory/1.jpg"
+          "imageUrl": "background/Memory/1.jpg"
         },
         {
           "id": 1,
-          "url": "background/Memory/2.jpg",
-          "imageUrl": "background/Memory/2.jpg",
-          "previewUrl": "background/Memory/2.jpg"
+          "imageUrl": "background/Memory/2.jpg"
         },
         {
           "id": 2,
-          "url": "background/Memory/3.jpg",
-          "imageUrl": "background/Memory/3.jpg",
-          "previewUrl": "background/Memory/3.jpg"
+          "imageUrl": "background/Memory/3.jpg"
         },
         {
           "id": 3,
-          "url": "background/Memory/4.jpg",
-          "imageUrl": "background/Memory/4.jpg",
-          "previewUrl": "background/Memory/4.jpg"
+          "imageUrl": "background/Memory/4.jpg"
         },
         {
           "id": 4,
-          "url": "background/Memory/5.jpg",
-          "imageUrl": "background/Memory/5.jpg",
-          "previewUrl": "background/Memory/5.jpg"
+          "imageUrl": "background/Memory/5.jpg"
         },
         {
           "id": 5,
-          "url": "background/Memory/6.jpg",
-          "imageUrl": "background/Memory/6.jpg",
-          "previewUrl": "background/Memory/6.jpg"
+          "imageUrl": "background/Memory/6.jpg"
         },
         {
           "id": 6,
-          "url": "background/Memory/7.jpg",
-          "imageUrl": "background/Memory/7.jpg",
-          "previewUrl": "background/Memory/7.jpg"
+          "imageUrl": "background/Memory/7.jpg"
         },
         {
           "id": 7,
-          "url": "background/Memory/8.jpg",
-          "imageUrl": "background/Memory/8.jpg",
-          "previewUrl": "background/Memory/8.jpg"
+          "imageUrl": "background/Memory/8.jpg"
         },
         {
           "id": 8,
-          "url": "background/Memory/9.jpg",
-          "imageUrl": "background/Memory/9.jpg",
-          "previewUrl": "background/Memory/9.jpg"
+          "imageUrl": "background/Memory/9.jpg"
         },
         {
           "id": 9,
-          "url": "background/Memory/10.jpg",
-          "imageUrl": "background/Memory/10.jpg",
-          "previewUrl": "background/Memory/10.jpg"
+          "imageUrl": "background/Memory/10.jpg"
         },
         {
           "id": 10,
-          "url": "background/Memory/11.jpg",
-          "imageUrl": "background/Memory/11.jpg",
-          "previewUrl": "background/Memory/11.jpg"
+          "imageUrl": "background/Memory/11.jpg"
         },
         {
           "id": 11,
-          "url": "background/Memory/12.jpg",
-          "imageUrl": "background/Memory/12.jpg",
-          "previewUrl": "background/Memory/12.jpg"
+          "imageUrl": "background/Memory/12.jpg"
         },
         {
           "id": 12,
-          "url": "background/Memory/13.jpg",
-          "imageUrl": "background/Memory/13.jpg",
-          "previewUrl": "background/Memory/13.jpg"
+          "imageUrl": "background/Memory/13.jpg"
         },
         {
           "id": 13,
-          "url": "background/Memory/14.jpg",
-          "imageUrl": "background/Memory/14.jpg",
-          "previewUrl": "background/Memory/14.jpg"
+          "imageUrl": "background/Memory/14.jpg"
         },
         {
           "id": 14,
-          "url": "background/Memory/15.jpg",
-          "imageUrl": "background/Memory/15.jpg",
-          "previewUrl": "background/Memory/15.jpg"
+          "imageUrl": "background/Memory/15.jpg"
         },
         {
           "id": 15,
-          "url": "background/Memory/16.jpg",
-          "imageUrl": "background/Memory/16.jpg",
-          "previewUrl": "background/Memory/16.jpg"
+          "imageUrl": "background/Memory/16.jpg"
         },
         {
           "id": 16,
-          "url": "background/Memory/17.jpg",
-          "imageUrl": "background/Memory/17.jpg",
-          "previewUrl": "background/Memory/17.jpg"
+          "imageUrl": "background/Memory/17.jpg"
         },
         {
           "id": 17,
-          "url": "background/Memory/18.jpg",
-          "imageUrl": "background/Memory/18.jpg",
-          "previewUrl": "background/Memory/18.jpg"
+          "imageUrl": "background/Memory/18.jpg"
         },
         {
           "id": 18,
-          "url": "background/Memory/19.jpg",
-          "imageUrl": "background/Memory/19.jpg",
-          "previewUrl": "background/Memory/19.jpg"
+          "imageUrl": "background/Memory/19.jpg"
         },
         {
           "id": 19,
-          "url": "background/Memory/20.jpg",
-          "imageUrl": "background/Memory/20.jpg",
-          "previewUrl": "background/Memory/20.jpg"
+          "imageUrl": "background/Memory/20.jpg"
         }
       ]
     },
@@ -1469,105 +1319,71 @@
       "items": [
         {
           "id": 0,
-          "url": "background/Note/1.jpg",
-          "imageUrl": "background/Note/1.jpg",
-          "previewUrl": "background/Note/1.jpg"
+          "imageUrl": "background/Note/1.jpg"
         },
         {
           "id": 1,
-          "url": "background/Note/2.jpg",
-          "imageUrl": "background/Note/2.jpg",
-          "previewUrl": "background/Note/2.jpg"
+          "imageUrl": "background/Note/2.jpg"
         },
         {
           "id": 2,
-          "url": "background/Note/3.jpg",
-          "imageUrl": "background/Note/3.jpg",
-          "previewUrl": "background/Note/3.jpg"
+          "imageUrl": "background/Note/3.jpg"
         },
         {
           "id": 3,
-          "url": "background/Note/4.jpg",
-          "imageUrl": "background/Note/4.jpg",
-          "previewUrl": "background/Note/4.jpg"
+          "imageUrl": "background/Note/4.jpg"
         },
         {
           "id": 4,
-          "url": "background/Note/5.jpg",
-          "imageUrl": "background/Note/5.jpg",
-          "previewUrl": "background/Note/5.jpg"
+          "imageUrl": "background/Note/5.jpg"
         },
         {
           "id": 5,
-          "url": "background/Note/6.jpg",
-          "imageUrl": "background/Note/6.jpg",
-          "previewUrl": "background/Note/6.jpg"
+          "imageUrl": "background/Note/6.jpg"
         },
         {
           "id": 6,
-          "url": "background/Note/7.jpg",
-          "imageUrl": "background/Note/7.jpg",
-          "previewUrl": "background/Note/7.jpg"
+          "imageUrl": "background/Note/7.jpg"
         },
         {
           "id": 7,
-          "url": "background/Note/9.jpg",
-          "imageUrl": "background/Note/9.jpg",
-          "previewUrl": "background/Note/9.jpg"
+          "imageUrl": "background/Note/9.jpg"
         },
         {
           "id": 8,
-          "url": "background/Note/10.jpg",
-          "imageUrl": "background/Note/10.jpg",
-          "previewUrl": "background/Note/10.jpg"
+          "imageUrl": "background/Note/10.jpg"
         },
         {
           "id": 9,
-          "url": "background/Note/11.jpg",
-          "imageUrl": "background/Note/11.jpg",
-          "previewUrl": "background/Note/11.jpg"
+          "imageUrl": "background/Note/11.jpg"
         },
         {
           "id": 10,
-          "url": "background/Note/12.jpg",
-          "imageUrl": "background/Note/12.jpg",
-          "previewUrl": "background/Note/12.jpg"
+          "imageUrl": "background/Note/12.jpg"
         },
         {
           "id": 11,
-          "url": "background/Note/13.jpg",
-          "imageUrl": "background/Note/13.jpg",
-          "previewUrl": "background/Note/13.jpg"
+          "imageUrl": "background/Note/13.jpg"
         },
         {
           "id": 12,
-          "url": "background/Note/14.jpg",
-          "imageUrl": "background/Note/14.jpg",
-          "previewUrl": "background/Note/14.jpg"
+          "imageUrl": "background/Note/14.jpg"
         },
         {
           "id": 13,
-          "url": "background/Note/15.jpg",
-          "imageUrl": "background/Note/15.jpg",
-          "previewUrl": "background/Note/15.jpg"
+          "imageUrl": "background/Note/15.jpg"
         },
         {
           "id": 14,
-          "url": "background/Note/16.jpg",
-          "imageUrl": "background/Note/16.jpg",
-          "previewUrl": "background/Note/16.jpg"
+          "imageUrl": "background/Note/16.jpg"
         },
         {
           "id": 15,
-          "url": "background/Note/17.jpg",
-          "imageUrl": "background/Note/17.jpg",
-          "previewUrl": "background/Note/17.jpg"
+          "imageUrl": "background/Note/17.jpg"
         },
         {
           "id": 16,
-          "url": "background/Note/19.jpg",
-          "imageUrl": "background/Note/19.jpg",
-          "previewUrl": "background/Note/19.jpg"
+          "imageUrl": "background/Note/19.jpg"
         }
       ]
     },
@@ -1577,117 +1393,113 @@
       "items": [
         {
           "id": 0,
-          "url": "background/Spring/1.jpg",
-          "imageUrl": "background/Spring/1.jpg",
-          "previewUrl": "background/Spring/1.jpg"
+          "imageUrl": "background/Spring/1.jpg"
         },
         {
           "id": 1,
-          "url": "background/Spring/2.jpg",
-          "imageUrl": "background/Spring/2.jpg",
-          "previewUrl": "background/Spring/2.jpg"
+          "imageUrl": "background/Spring/2.jpg"
         },
         {
           "id": 2,
-          "url": "background/Spring/3.jpg",
-          "imageUrl": "background/Spring/3.jpg",
-          "previewUrl": "background/Spring/3.jpg"
+          "imageUrl": "background/Spring/3.jpg"
         },
         {
           "id": 3,
-          "url": "background/Spring/4.jpg",
-          "imageUrl": "background/Spring/4.jpg",
-          "previewUrl": "background/Spring/4.jpg"
+          "imageUrl": "background/Spring/4.jpg"
         },
         {
           "id": 4,
-          "url": "background/Spring/5.jpg",
-          "imageUrl": "background/Spring/5.jpg",
-          "previewUrl": "background/Spring/5.jpg"
+          "imageUrl": "background/Spring/5.jpg"
         },
         {
           "id": 5,
-          "url": "background/Spring/6.jpg",
-          "imageUrl": "background/Spring/6.jpg",
-          "previewUrl": "background/Spring/6.jpg"
+          "imageUrl": "background/Spring/6.jpg"
         },
         {
           "id": 6,
-          "url": "background/Spring/7.jpg",
-          "imageUrl": "background/Spring/7.jpg",
-          "previewUrl": "background/Spring/7.jpg"
+          "imageUrl": "background/Spring/7.jpg"
         },
         {
           "id": 7,
-          "url": "background/Spring/8.jpg",
-          "imageUrl": "background/Spring/8.jpg",
-          "previewUrl": "background/Spring/8.jpg"
+          "imageUrl": "background/Spring/8.jpg"
         },
         {
           "id": 8,
-          "url": "background/Spring/9.jpg",
-          "imageUrl": "background/Spring/9.jpg",
-          "previewUrl": "background/Spring/9.jpg"
+          "imageUrl": "background/Spring/9.jpg"
         },
         {
           "id": 9,
-          "url": "background/Spring/10.jpg",
-          "imageUrl": "background/Spring/10.jpg",
-          "previewUrl": "background/Spring/10.jpg"
+          "imageUrl": "background/Spring/10.jpg"
         },
         {
           "id": 10,
-          "url": "background/Spring/11.jpg",
-          "imageUrl": "background/Spring/11.jpg",
-          "previewUrl": "background/Spring/11.jpg"
+          "imageUrl": "background/Spring/11.jpg"
         },
         {
           "id": 11,
-          "url": "background/Spring/12.jpg",
-          "imageUrl": "background/Spring/12.jpg",
-          "previewUrl": "background/Spring/12.jpg"
+          "imageUrl": "background/Spring/12.jpg"
         },
         {
           "id": 12,
-          "url": "background/Spring/13.jpg",
-          "imageUrl": "background/Spring/13.jpg",
-          "previewUrl": "background/Spring/13.jpg"
+          "imageUrl": "background/Spring/13.jpg"
         },
         {
           "id": 13,
-          "url": "background/Spring/15.jpg",
-          "imageUrl": "background/Spring/15.jpg",
-          "previewUrl": "background/Spring/15.jpg"
+          "imageUrl": "background/Spring/15.jpg"
         },
         {
           "id": 14,
-          "url": "background/Spring/16.jpg",
-          "imageUrl": "background/Spring/16.jpg",
-          "previewUrl": "background/Spring/16.jpg"
+          "imageUrl": "background/Spring/16.jpg"
         },
         {
           "id": 15,
-          "url": "background/Spring/17.jpg",
-          "imageUrl": "background/Spring/17.jpg",
-          "previewUrl": "background/Spring/17.jpg"
+          "imageUrl": "background/Spring/17.jpg"
         },
         {
           "id": 16,
-          "url": "background/Spring/18.jpg",
-          "imageUrl": "background/Spring/18.jpg",
-          "previewUrl": "background/Spring/18.jpg"
+          "imageUrl": "background/Spring/18.jpg"
         },
         {
           "id": 17,
-          "url": "background/Spring/19.jpg",
-          "imageUrl": "background/Spring/19.jpg",
-          "previewUrl": "background/Spring/19.jpg"
+          "imageUrl": "background/Spring/19.jpg"
         },
         {
           "id": 18,
-          "url": "background/Spring/20.jpg",
-          "imageUrl": "background/Spring/20.jpg",
-          "previewUrl": "background/Spring/20.jpg"
+          "imageUrl": "background/Spring/20.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Studio",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "background_local/all_background.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "background_local/bg_collage_default.webp"
+        },
+        {
+          "id": 2,
+          "imageUrl": "background_local/bg_empty.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "background_local/bg_remove_background.webp"
+        },
+        {
+          "id": 4,
+          "imageUrl": "background_local/ic_filter_none.webp"
+        },
+        {
+          "id": 5,
+          "imageUrl": "background_local/ic_item_default_filter.webp"
+        },
+        {
+          "id": 6,
+          "imageUrl": "background_local/img_filter_demo.webp"
         }
       ]
     }
@@ -1699,207 +1511,139 @@
       "items": [
         {
           "id": 0,
-          "url": "sticker/Birthday/1.png",
-          "imageUrl": "sticker/Birthday/1.png",
-          "previewUrl": "sticker/Birthday/1.png"
+          "imageUrl": "sticker_local/server/Birthday/1.png"
         },
         {
           "id": 1,
-          "url": "sticker/Birthday/2.png",
-          "imageUrl": "sticker/Birthday/2.png",
-          "previewUrl": "sticker/Birthday/2.png"
+          "imageUrl": "sticker_local/server/Birthday/2.png"
         },
         {
           "id": 2,
-          "url": "sticker/Birthday/3.png",
-          "imageUrl": "sticker/Birthday/3.png",
-          "previewUrl": "sticker/Birthday/3.png"
+          "imageUrl": "sticker_local/server/Birthday/3.png"
         },
         {
           "id": 3,
-          "url": "sticker/Birthday/4.png",
-          "imageUrl": "sticker/Birthday/4.png",
-          "previewUrl": "sticker/Birthday/4.png"
+          "imageUrl": "sticker_local/server/Birthday/4.png"
         },
         {
           "id": 4,
-          "url": "sticker/Birthday/5.png",
-          "imageUrl": "sticker/Birthday/5.png",
-          "previewUrl": "sticker/Birthday/5.png"
+          "imageUrl": "sticker_local/server/Birthday/5.png"
         },
         {
           "id": 5,
-          "url": "sticker/Birthday/6.png",
-          "imageUrl": "sticker/Birthday/6.png",
-          "previewUrl": "sticker/Birthday/6.png"
+          "imageUrl": "sticker_local/server/Birthday/6.png"
         },
         {
           "id": 6,
-          "url": "sticker/Birthday/7.png",
-          "imageUrl": "sticker/Birthday/7.png",
-          "previewUrl": "sticker/Birthday/7.png"
+          "imageUrl": "sticker_local/server/Birthday/7.png"
         },
         {
           "id": 7,
-          "url": "sticker/Birthday/8.png",
-          "imageUrl": "sticker/Birthday/8.png",
-          "previewUrl": "sticker/Birthday/8.png"
+          "imageUrl": "sticker_local/server/Birthday/8.png"
         },
         {
           "id": 8,
-          "url": "sticker/Birthday/9.png",
-          "imageUrl": "sticker/Birthday/9.png",
-          "previewUrl": "sticker/Birthday/9.png"
+          "imageUrl": "sticker_local/server/Birthday/9.png"
         },
         {
           "id": 9,
-          "url": "sticker/Birthday/10.png",
-          "imageUrl": "sticker/Birthday/10.png",
-          "previewUrl": "sticker/Birthday/10.png"
+          "imageUrl": "sticker_local/server/Birthday/10.png"
         },
         {
           "id": 10,
-          "url": "sticker/Birthday/11.png",
-          "imageUrl": "sticker/Birthday/11.png",
-          "previewUrl": "sticker/Birthday/11.png"
+          "imageUrl": "sticker_local/server/Birthday/11.png"
         },
         {
           "id": 11,
-          "url": "sticker/Birthday/12.png",
-          "imageUrl": "sticker/Birthday/12.png",
-          "previewUrl": "sticker/Birthday/12.png"
+          "imageUrl": "sticker_local/server/Birthday/12.png"
         },
         {
           "id": 12,
-          "url": "sticker/Birthday/14.png",
-          "imageUrl": "sticker/Birthday/14.png",
-          "previewUrl": "sticker/Birthday/14.png"
+          "imageUrl": "sticker_local/server/Birthday/14.png"
         },
         {
           "id": 13,
-          "url": "sticker/Birthday/15.png",
-          "imageUrl": "sticker/Birthday/15.png",
-          "previewUrl": "sticker/Birthday/15.png"
+          "imageUrl": "sticker_local/server/Birthday/15.png"
         },
         {
           "id": 14,
-          "url": "sticker/Birthday/16.png",
-          "imageUrl": "sticker/Birthday/16.png",
-          "previewUrl": "sticker/Birthday/16.png"
+          "imageUrl": "sticker_local/server/Birthday/16.png"
         },
         {
           "id": 15,
-          "url": "sticker/Birthday/17.png",
-          "imageUrl": "sticker/Birthday/17.png",
-          "previewUrl": "sticker/Birthday/17.png"
+          "imageUrl": "sticker_local/server/Birthday/17.png"
         },
         {
           "id": 16,
-          "url": "sticker/Birthday/18.png",
-          "imageUrl": "sticker/Birthday/18.png",
-          "previewUrl": "sticker/Birthday/18.png"
+          "imageUrl": "sticker_local/server/Birthday/18.png"
         },
         {
           "id": 17,
-          "url": "sticker/Birthday/19.png",
-          "imageUrl": "sticker/Birthday/19.png",
-          "previewUrl": "sticker/Birthday/19.png"
+          "imageUrl": "sticker_local/server/Birthday/19.png"
         },
         {
           "id": 18,
-          "url": "sticker/Birthday/20.png",
-          "imageUrl": "sticker/Birthday/20.png",
-          "previewUrl": "sticker/Birthday/20.png"
+          "imageUrl": "sticker_local/server/Birthday/20.png"
         },
         {
           "id": 19,
-          "url": "sticker/Birthday/21.png",
-          "imageUrl": "sticker/Birthday/21.png",
-          "previewUrl": "sticker/Birthday/21.png"
+          "imageUrl": "sticker_local/server/Birthday/21.png"
         },
         {
           "id": 20,
-          "url": "sticker/Birthday/22.png",
-          "imageUrl": "sticker/Birthday/22.png",
-          "previewUrl": "sticker/Birthday/22.png"
+          "imageUrl": "sticker_local/server/Birthday/22.png"
         },
         {
           "id": 21,
-          "url": "sticker/Birthday/23.png",
-          "imageUrl": "sticker/Birthday/23.png",
-          "previewUrl": "sticker/Birthday/23.png"
+          "imageUrl": "sticker_local/server/Birthday/23.png"
         },
         {
           "id": 22,
-          "url": "sticker/Birthday/24.png",
-          "imageUrl": "sticker/Birthday/24.png",
-          "previewUrl": "sticker/Birthday/24.png"
+          "imageUrl": "sticker_local/server/Birthday/24.png"
         },
         {
           "id": 23,
-          "url": "sticker/Birthday/25.png",
-          "imageUrl": "sticker/Birthday/25.png",
-          "previewUrl": "sticker/Birthday/25.png"
+          "imageUrl": "sticker_local/server/Birthday/25.png"
         },
         {
           "id": 24,
-          "url": "sticker/Birthday/26.png",
-          "imageUrl": "sticker/Birthday/26.png",
-          "previewUrl": "sticker/Birthday/26.png"
+          "imageUrl": "sticker_local/server/Birthday/26.png"
         },
         {
           "id": 25,
-          "url": "sticker/Birthday/27.png",
-          "imageUrl": "sticker/Birthday/27.png",
-          "previewUrl": "sticker/Birthday/27.png"
+          "imageUrl": "sticker_local/server/Birthday/27.png"
         },
         {
           "id": 26,
-          "url": "sticker/Birthday/28.png",
-          "imageUrl": "sticker/Birthday/28.png",
-          "previewUrl": "sticker/Birthday/28.png"
+          "imageUrl": "sticker_local/server/Birthday/28.png"
         },
         {
           "id": 27,
-          "url": "sticker/Birthday/29.png",
-          "imageUrl": "sticker/Birthday/29.png",
-          "previewUrl": "sticker/Birthday/29.png"
+          "imageUrl": "sticker_local/server/Birthday/29.png"
         },
         {
           "id": 28,
-          "url": "sticker/Birthday/30.png",
-          "imageUrl": "sticker/Birthday/30.png",
-          "previewUrl": "sticker/Birthday/30.png"
+          "imageUrl": "sticker_local/server/Birthday/30.png"
         },
         {
           "id": 29,
-          "url": "sticker/Birthday/31.png",
-          "imageUrl": "sticker/Birthday/31.png",
-          "previewUrl": "sticker/Birthday/31.png"
+          "imageUrl": "sticker_local/server/Birthday/31.png"
         },
         {
           "id": 30,
-          "url": "sticker/Birthday/32.png",
-          "imageUrl": "sticker/Birthday/32.png",
-          "previewUrl": "sticker/Birthday/32.png"
+          "imageUrl": "sticker_local/server/Birthday/32.png"
         },
         {
           "id": 31,
-          "url": "sticker/Birthday/33.png",
-          "imageUrl": "sticker/Birthday/33.png",
-          "previewUrl": "sticker/Birthday/33.png"
+          "imageUrl": "sticker_local/server/Birthday/33.png"
         },
         {
           "id": 32,
-          "url": "sticker/Birthday/34.png",
-          "imageUrl": "sticker/Birthday/34.png",
-          "previewUrl": "sticker/Birthday/34.png"
+          "imageUrl": "sticker_local/server/Birthday/34.png"
         },
         {
           "id": 33,
-          "url": "sticker/Birthday/35.png",
-          "imageUrl": "sticker/Birthday/35.png",
-          "previewUrl": "sticker/Birthday/35.png"
+          "imageUrl": "sticker_local/server/Birthday/35.png"
         }
       ]
     },
@@ -1909,225 +1653,151 @@
       "items": [
         {
           "id": 0,
-          "url": "sticker/Christmas/1.png",
-          "imageUrl": "sticker/Christmas/1.png",
-          "previewUrl": "sticker/Christmas/1.png"
+          "imageUrl": "sticker_local/server/Christmas/1.png"
         },
         {
           "id": 1,
-          "url": "sticker/Christmas/2.png",
-          "imageUrl": "sticker/Christmas/2.png",
-          "previewUrl": "sticker/Christmas/2.png"
+          "imageUrl": "sticker_local/server/Christmas/2.png"
         },
         {
           "id": 2,
-          "url": "sticker/Christmas/3.png",
-          "imageUrl": "sticker/Christmas/3.png",
-          "previewUrl": "sticker/Christmas/3.png"
+          "imageUrl": "sticker_local/server/Christmas/3.png"
         },
         {
           "id": 3,
-          "url": "sticker/Christmas/4.png",
-          "imageUrl": "sticker/Christmas/4.png",
-          "previewUrl": "sticker/Christmas/4.png"
+          "imageUrl": "sticker_local/server/Christmas/4.png"
         },
         {
           "id": 4,
-          "url": "sticker/Christmas/5.png",
-          "imageUrl": "sticker/Christmas/5.png",
-          "previewUrl": "sticker/Christmas/5.png"
+          "imageUrl": "sticker_local/server/Christmas/5.png"
         },
         {
           "id": 5,
-          "url": "sticker/Christmas/6.png",
-          "imageUrl": "sticker/Christmas/6.png",
-          "previewUrl": "sticker/Christmas/6.png"
+          "imageUrl": "sticker_local/server/Christmas/6.png"
         },
         {
           "id": 6,
-          "url": "sticker/Christmas/7.png",
-          "imageUrl": "sticker/Christmas/7.png",
-          "previewUrl": "sticker/Christmas/7.png"
+          "imageUrl": "sticker_local/server/Christmas/7.png"
         },
         {
           "id": 7,
-          "url": "sticker/Christmas/8.png",
-          "imageUrl": "sticker/Christmas/8.png",
-          "previewUrl": "sticker/Christmas/8.png"
+          "imageUrl": "sticker_local/server/Christmas/8.png"
         },
         {
           "id": 8,
-          "url": "sticker/Christmas/9.png",
-          "imageUrl": "sticker/Christmas/9.png",
-          "previewUrl": "sticker/Christmas/9.png"
+          "imageUrl": "sticker_local/server/Christmas/9.png"
         },
         {
           "id": 9,
-          "url": "sticker/Christmas/10.png",
-          "imageUrl": "sticker/Christmas/10.png",
-          "previewUrl": "sticker/Christmas/10.png"
+          "imageUrl": "sticker_local/server/Christmas/10.png"
         },
         {
           "id": 10,
-          "url": "sticker/Christmas/11.png",
-          "imageUrl": "sticker/Christmas/11.png",
-          "previewUrl": "sticker/Christmas/11.png"
+          "imageUrl": "sticker_local/server/Christmas/11.png"
         },
         {
           "id": 11,
-          "url": "sticker/Christmas/12.png",
-          "imageUrl": "sticker/Christmas/12.png",
-          "previewUrl": "sticker/Christmas/12.png"
+          "imageUrl": "sticker_local/server/Christmas/12.png"
         },
         {
           "id": 12,
-          "url": "sticker/Christmas/13.png",
-          "imageUrl": "sticker/Christmas/13.png",
-          "previewUrl": "sticker/Christmas/13.png"
+          "imageUrl": "sticker_local/server/Christmas/13.png"
         },
         {
           "id": 13,
-          "url": "sticker/Christmas/14.png",
-          "imageUrl": "sticker/Christmas/14.png",
-          "previewUrl": "sticker/Christmas/14.png"
+          "imageUrl": "sticker_local/server/Christmas/14.png"
         },
         {
           "id": 14,
-          "url": "sticker/Christmas/15.png",
-          "imageUrl": "sticker/Christmas/15.png",
-          "previewUrl": "sticker/Christmas/15.png"
+          "imageUrl": "sticker_local/server/Christmas/15.png"
         },
         {
           "id": 15,
-          "url": "sticker/Christmas/16.png",
-          "imageUrl": "sticker/Christmas/16.png",
-          "previewUrl": "sticker/Christmas/16.png"
+          "imageUrl": "sticker_local/server/Christmas/16.png"
         },
         {
           "id": 16,
-          "url": "sticker/Christmas/17.png",
-          "imageUrl": "sticker/Christmas/17.png",
-          "previewUrl": "sticker/Christmas/17.png"
+          "imageUrl": "sticker_local/server/Christmas/17.png"
         },
         {
           "id": 17,
-          "url": "sticker/Christmas/18.png",
-          "imageUrl": "sticker/Christmas/18.png",
-          "previewUrl": "sticker/Christmas/18.png"
+          "imageUrl": "sticker_local/server/Christmas/18.png"
         },
         {
           "id": 18,
-          "url": "sticker/Christmas/19.png",
-          "imageUrl": "sticker/Christmas/19.png",
-          "previewUrl": "sticker/Christmas/19.png"
+          "imageUrl": "sticker_local/server/Christmas/19.png"
         },
         {
           "id": 19,
-          "url": "sticker/Christmas/20.png",
-          "imageUrl": "sticker/Christmas/20.png",
-          "previewUrl": "sticker/Christmas/20.png"
+          "imageUrl": "sticker_local/server/Christmas/20.png"
         },
         {
           "id": 20,
-          "url": "sticker/Christmas/21.png",
-          "imageUrl": "sticker/Christmas/21.png",
-          "previewUrl": "sticker/Christmas/21.png"
+          "imageUrl": "sticker_local/server/Christmas/21.png"
         },
         {
           "id": 21,
-          "url": "sticker/Christmas/22.png",
-          "imageUrl": "sticker/Christmas/22.png",
-          "previewUrl": "sticker/Christmas/22.png"
+          "imageUrl": "sticker_local/server/Christmas/22.png"
         },
         {
           "id": 22,
-          "url": "sticker/Christmas/24.png",
-          "imageUrl": "sticker/Christmas/24.png",
-          "previewUrl": "sticker/Christmas/24.png"
+          "imageUrl": "sticker_local/server/Christmas/24.png"
         },
         {
           "id": 23,
-          "url": "sticker/Christmas/25.png",
-          "imageUrl": "sticker/Christmas/25.png",
-          "previewUrl": "sticker/Christmas/25.png"
+          "imageUrl": "sticker_local/server/Christmas/25.png"
         },
         {
           "id": 24,
-          "url": "sticker/Christmas/26.png",
-          "imageUrl": "sticker/Christmas/26.png",
-          "previewUrl": "sticker/Christmas/26.png"
+          "imageUrl": "sticker_local/server/Christmas/26.png"
         },
         {
           "id": 25,
-          "url": "sticker/Christmas/27.png",
-          "imageUrl": "sticker/Christmas/27.png",
-          "previewUrl": "sticker/Christmas/27.png"
+          "imageUrl": "sticker_local/server/Christmas/27.png"
         },
         {
           "id": 26,
-          "url": "sticker/Christmas/28.png",
-          "imageUrl": "sticker/Christmas/28.png",
-          "previewUrl": "sticker/Christmas/28.png"
+          "imageUrl": "sticker_local/server/Christmas/28.png"
         },
         {
           "id": 27,
-          "url": "sticker/Christmas/29.png",
-          "imageUrl": "sticker/Christmas/29.png",
-          "previewUrl": "sticker/Christmas/29.png"
+          "imageUrl": "sticker_local/server/Christmas/29.png"
         },
         {
           "id": 28,
-          "url": "sticker/Christmas/30.png",
-          "imageUrl": "sticker/Christmas/30.png",
-          "previewUrl": "sticker/Christmas/30.png"
+          "imageUrl": "sticker_local/server/Christmas/30.png"
         },
         {
           "id": 29,
-          "url": "sticker/Christmas/31.png",
-          "imageUrl": "sticker/Christmas/31.png",
-          "previewUrl": "sticker/Christmas/31.png"
+          "imageUrl": "sticker_local/server/Christmas/31.png"
         },
         {
           "id": 30,
-          "url": "sticker/Christmas/32.png",
-          "imageUrl": "sticker/Christmas/32.png",
-          "previewUrl": "sticker/Christmas/32.png"
+          "imageUrl": "sticker_local/server/Christmas/32.png"
         },
         {
           "id": 31,
-          "url": "sticker/Christmas/33.png",
-          "imageUrl": "sticker/Christmas/33.png",
-          "previewUrl": "sticker/Christmas/33.png"
+          "imageUrl": "sticker_local/server/Christmas/33.png"
         },
         {
           "id": 32,
-          "url": "sticker/Christmas/34.png",
-          "imageUrl": "sticker/Christmas/34.png",
-          "previewUrl": "sticker/Christmas/34.png"
+          "imageUrl": "sticker_local/server/Christmas/34.png"
         },
         {
           "id": 33,
-          "url": "sticker/Christmas/35.png",
-          "imageUrl": "sticker/Christmas/35.png",
-          "previewUrl": "sticker/Christmas/35.png"
+          "imageUrl": "sticker_local/server/Christmas/35.png"
         },
         {
           "id": 34,
-          "url": "sticker/Christmas/36.png",
-          "imageUrl": "sticker/Christmas/36.png",
-          "previewUrl": "sticker/Christmas/36.png"
+          "imageUrl": "sticker_local/server/Christmas/36.png"
         },
         {
           "id": 35,
-          "url": "sticker/Christmas/37.png",
-          "imageUrl": "sticker/Christmas/37.png",
-          "previewUrl": "sticker/Christmas/37.png"
+          "imageUrl": "sticker_local/server/Christmas/37.png"
         },
         {
           "id": 36,
-          "url": "sticker/Christmas/38.png",
-          "imageUrl": "sticker/Christmas/38.png",
-          "previewUrl": "sticker/Christmas/38.png"
+          "imageUrl": "sticker_local/server/Christmas/38.png"
         }
       ]
     },
@@ -2137,281 +1807,1447 @@
       "items": [
         {
           "id": 0,
-          "url": "sticker/Collage/1.png",
-          "imageUrl": "sticker/Collage/1.png",
-          "previewUrl": "sticker/Collage/1.png"
+          "imageUrl": "sticker_local/server/Collage/1.png"
         },
         {
           "id": 1,
-          "url": "sticker/Collage/2.png",
-          "imageUrl": "sticker/Collage/2.png",
-          "previewUrl": "sticker/Collage/2.png"
+          "imageUrl": "sticker_local/server/Collage/2.png"
         },
         {
           "id": 2,
-          "url": "sticker/Collage/3.png",
-          "imageUrl": "sticker/Collage/3.png",
-          "previewUrl": "sticker/Collage/3.png"
+          "imageUrl": "sticker_local/server/Collage/3.png"
         },
         {
           "id": 3,
-          "url": "sticker/Collage/4.png",
-          "imageUrl": "sticker/Collage/4.png",
-          "previewUrl": "sticker/Collage/4.png"
+          "imageUrl": "sticker_local/server/Collage/4.png"
         },
         {
           "id": 4,
-          "url": "sticker/Collage/5.png",
-          "imageUrl": "sticker/Collage/5.png",
-          "previewUrl": "sticker/Collage/5.png"
+          "imageUrl": "sticker_local/server/Collage/5.png"
         },
         {
           "id": 5,
-          "url": "sticker/Collage/6.png",
-          "imageUrl": "sticker/Collage/6.png",
-          "previewUrl": "sticker/Collage/6.png"
+          "imageUrl": "sticker_local/server/Collage/6.png"
         },
         {
           "id": 6,
-          "url": "sticker/Collage/7.png",
-          "imageUrl": "sticker/Collage/7.png",
-          "previewUrl": "sticker/Collage/7.png"
+          "imageUrl": "sticker_local/server/Collage/7.png"
         },
         {
           "id": 7,
-          "url": "sticker/Collage/8.png",
-          "imageUrl": "sticker/Collage/8.png",
-          "previewUrl": "sticker/Collage/8.png"
+          "imageUrl": "sticker_local/server/Collage/8.png"
         },
         {
           "id": 8,
-          "url": "sticker/Collage/9.png",
-          "imageUrl": "sticker/Collage/9.png",
-          "previewUrl": "sticker/Collage/9.png"
+          "imageUrl": "sticker_local/server/Collage/9.png"
         },
         {
           "id": 9,
-          "url": "sticker/Collage/10.png",
-          "imageUrl": "sticker/Collage/10.png",
-          "previewUrl": "sticker/Collage/10.png"
+          "imageUrl": "sticker_local/server/Collage/10.png"
         },
         {
           "id": 10,
-          "url": "sticker/Collage/11.png",
-          "imageUrl": "sticker/Collage/11.png",
-          "previewUrl": "sticker/Collage/11.png"
+          "imageUrl": "sticker_local/server/Collage/11.png"
         },
         {
           "id": 11,
-          "url": "sticker/Collage/12.png",
-          "imageUrl": "sticker/Collage/12.png",
-          "previewUrl": "sticker/Collage/12.png"
+          "imageUrl": "sticker_local/server/Collage/12.png"
         },
         {
           "id": 12,
-          "url": "sticker/Collage/13.png",
-          "imageUrl": "sticker/Collage/13.png",
-          "previewUrl": "sticker/Collage/13.png"
+          "imageUrl": "sticker_local/server/Collage/13.png"
         },
         {
           "id": 13,
-          "url": "sticker/Collage/14.png",
-          "imageUrl": "sticker/Collage/14.png",
-          "previewUrl": "sticker/Collage/14.png"
+          "imageUrl": "sticker_local/server/Collage/14.png"
         },
         {
           "id": 14,
-          "url": "sticker/Collage/15.png",
-          "imageUrl": "sticker/Collage/15.png",
-          "previewUrl": "sticker/Collage/15.png"
+          "imageUrl": "sticker_local/server/Collage/15.png"
         },
         {
           "id": 15,
-          "url": "sticker/Collage/16.png",
-          "imageUrl": "sticker/Collage/16.png",
-          "previewUrl": "sticker/Collage/16.png"
+          "imageUrl": "sticker_local/server/Collage/16.png"
         },
         {
           "id": 16,
-          "url": "sticker/Collage/17.png",
-          "imageUrl": "sticker/Collage/17.png",
-          "previewUrl": "sticker/Collage/17.png"
+          "imageUrl": "sticker_local/server/Collage/17.png"
         },
         {
           "id": 17,
-          "url": "sticker/Collage/18.png",
-          "imageUrl": "sticker/Collage/18.png",
-          "previewUrl": "sticker/Collage/18.png"
+          "imageUrl": "sticker_local/server/Collage/18.png"
         },
         {
           "id": 18,
-          "url": "sticker/Collage/19.png",
-          "imageUrl": "sticker/Collage/19.png",
-          "previewUrl": "sticker/Collage/19.png"
+          "imageUrl": "sticker_local/server/Collage/19.png"
         },
         {
           "id": 19,
-          "url": "sticker/Collage/20.png",
-          "imageUrl": "sticker/Collage/20.png",
-          "previewUrl": "sticker/Collage/20.png"
+          "imageUrl": "sticker_local/server/Collage/20.png"
         },
         {
           "id": 20,
-          "url": "sticker/Collage/21.png",
-          "imageUrl": "sticker/Collage/21.png",
-          "previewUrl": "sticker/Collage/21.png"
+          "imageUrl": "sticker_local/server/Collage/21.png"
         },
         {
           "id": 21,
-          "url": "sticker/Collage/22.png",
-          "imageUrl": "sticker/Collage/22.png",
-          "previewUrl": "sticker/Collage/22.png"
+          "imageUrl": "sticker_local/server/Collage/22.png"
         },
         {
           "id": 22,
-          "url": "sticker/Collage/23.png",
-          "imageUrl": "sticker/Collage/23.png",
-          "previewUrl": "sticker/Collage/23.png"
+          "imageUrl": "sticker_local/server/Collage/23.png"
         },
         {
           "id": 23,
-          "url": "sticker/Collage/24.png",
-          "imageUrl": "sticker/Collage/24.png",
-          "previewUrl": "sticker/Collage/24.png"
+          "imageUrl": "sticker_local/server/Collage/24.png"
         },
         {
           "id": 24,
-          "url": "sticker/Collage/25.png",
-          "imageUrl": "sticker/Collage/25.png",
-          "previewUrl": "sticker/Collage/25.png"
+          "imageUrl": "sticker_local/server/Collage/25.png"
         },
         {
           "id": 25,
-          "url": "sticker/Collage/26.png",
-          "imageUrl": "sticker/Collage/26.png",
-          "previewUrl": "sticker/Collage/26.png"
+          "imageUrl": "sticker_local/server/Collage/26.png"
         },
         {
           "id": 26,
-          "url": "sticker/Collage/27.png",
-          "imageUrl": "sticker/Collage/27.png",
-          "previewUrl": "sticker/Collage/27.png"
+          "imageUrl": "sticker_local/server/Collage/27.png"
         },
         {
           "id": 27,
-          "url": "sticker/Collage/28.png",
-          "imageUrl": "sticker/Collage/28.png",
-          "previewUrl": "sticker/Collage/28.png"
+          "imageUrl": "sticker_local/server/Collage/28.png"
         },
         {
           "id": 28,
-          "url": "sticker/Collage/29.png",
-          "imageUrl": "sticker/Collage/29.png",
-          "previewUrl": "sticker/Collage/29.png"
+          "imageUrl": "sticker_local/server/Collage/29.png"
         },
         {
           "id": 29,
-          "url": "sticker/Collage/30.png",
-          "imageUrl": "sticker/Collage/30.png",
-          "previewUrl": "sticker/Collage/30.png"
+          "imageUrl": "sticker_local/server/Collage/30.png"
         },
         {
           "id": 30,
-          "url": "sticker/Collage/31.png",
-          "imageUrl": "sticker/Collage/31.png",
-          "previewUrl": "sticker/Collage/31.png"
+          "imageUrl": "sticker_local/server/Collage/31.png"
         },
         {
           "id": 31,
-          "url": "sticker/Collage/32.png",
-          "imageUrl": "sticker/Collage/32.png",
-          "previewUrl": "sticker/Collage/32.png"
+          "imageUrl": "sticker_local/server/Collage/32.png"
         },
         {
           "id": 32,
-          "url": "sticker/Collage/33.png",
-          "imageUrl": "sticker/Collage/33.png",
-          "previewUrl": "sticker/Collage/33.png"
+          "imageUrl": "sticker_local/server/Collage/33.png"
         },
         {
           "id": 33,
-          "url": "sticker/Collage/34.png",
-          "imageUrl": "sticker/Collage/34.png",
-          "previewUrl": "sticker/Collage/34.png"
+          "imageUrl": "sticker_local/server/Collage/34.png"
         },
         {
           "id": 34,
-          "url": "sticker/Collage/35.png",
-          "imageUrl": "sticker/Collage/35.png",
-          "previewUrl": "sticker/Collage/35.png"
+          "imageUrl": "sticker_local/server/Collage/35.png"
         },
         {
           "id": 35,
-          "url": "sticker/Collage/36.png",
-          "imageUrl": "sticker/Collage/36.png",
-          "previewUrl": "sticker/Collage/36.png"
+          "imageUrl": "sticker_local/server/Collage/36.png"
         },
         {
           "id": 36,
-          "url": "sticker/Collage/37.png",
-          "imageUrl": "sticker/Collage/37.png",
-          "previewUrl": "sticker/Collage/37.png"
+          "imageUrl": "sticker_local/server/Collage/37.png"
         },
         {
           "id": 37,
-          "url": "sticker/Collage/38.png",
-          "imageUrl": "sticker/Collage/38.png",
-          "previewUrl": "sticker/Collage/38.png"
+          "imageUrl": "sticker_local/server/Collage/38.png"
         },
         {
           "id": 38,
-          "url": "sticker/Collage/39.png",
-          "imageUrl": "sticker/Collage/39.png",
-          "previewUrl": "sticker/Collage/39.png"
+          "imageUrl": "sticker_local/server/Collage/39.png"
         },
         {
           "id": 39,
-          "url": "sticker/Collage/40.png",
-          "imageUrl": "sticker/Collage/40.png",
-          "previewUrl": "sticker/Collage/40.png"
+          "imageUrl": "sticker_local/server/Collage/40.png"
         },
         {
           "id": 40,
-          "url": "sticker/Collage/41.png",
-          "imageUrl": "sticker/Collage/41.png",
-          "previewUrl": "sticker/Collage/41.png"
+          "imageUrl": "sticker_local/server/Collage/41.png"
         },
         {
           "id": 41,
-          "url": "sticker/Collage/42.png",
-          "imageUrl": "sticker/Collage/42.png",
-          "previewUrl": "sticker/Collage/42.png"
+          "imageUrl": "sticker_local/server/Collage/42.png"
         },
         {
           "id": 42,
-          "url": "sticker/Collage/43.png",
-          "imageUrl": "sticker/Collage/43.png",
-          "previewUrl": "sticker/Collage/43.png"
+          "imageUrl": "sticker_local/server/Collage/43.png"
         },
         {
           "id": 43,
-          "url": "sticker/Collage/44.png",
-          "imageUrl": "sticker/Collage/44.png",
-          "previewUrl": "sticker/Collage/44.png"
+          "imageUrl": "sticker_local/server/Collage/44.png"
         },
         {
           "id": 44,
-          "url": "sticker/Collage/45.png",
-          "imageUrl": "sticker/Collage/45.png",
-          "previewUrl": "sticker/Collage/45.png"
+          "imageUrl": "sticker_local/server/Collage/45.png"
         },
         {
           "id": 45,
-          "url": "sticker/Collage/46.png",
-          "imageUrl": "sticker/Collage/46.png",
-          "previewUrl": "sticker/Collage/46.png"
+          "imageUrl": "sticker_local/server/Collage/46.png"
         }
       ]
+    },
+    {
+      "id": 3,
+      "name": "Remi Bear",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/remi/emoji_bear/emoji_bear_1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/remi/emoji_bear/emoji_bear_2.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/remi/emoji_bear/emoji_bear_3.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/remi/emoji_bear/emoji_bear_4.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/remi/emoji_bear/emoji_bear_5.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/remi/emoji_bear/emoji_bear_6.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/remi/emoji_bear/emoji_bear_8.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/remi/emoji_bear/emoji_bear_9.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Remi Cat",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/remi/emoji_cat/emoji_cat_1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/remi/emoji_cat/emoji_cat_2.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/remi/emoji_cat/emoji_cat_3.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/remi/emoji_cat/emoji_cat_4.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/remi/emoji_cat/emoji_cat_5.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/remi/emoji_cat/emoji_cat_6.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/remi/emoji_cat/emoji_cat_7.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/remi/emoji_cat/emoji_cat_8.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/remi/emoji_cat/emoji_cat_9.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Remi Chicken",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/remi/emoji_chicken/emoji_chicken_1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/remi/emoji_chicken/emoji_chicken_2.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/remi/emoji_chicken/emoji_chicken_3.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/remi/emoji_chicken/emoji_chicken_4.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/remi/emoji_chicken/emoji_chicken_5.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/remi/emoji_chicken/emoji_chicken_6.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/remi/emoji_chicken/emoji_chicken_7.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/remi/emoji_chicken/emoji_chicken_8.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/remi/emoji_chicken/emoji_chicken_9.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Remi Face",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/remi/emoji_face/emoji_face_1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/remi/emoji_face/emoji_face_10.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/remi/emoji_face/emoji_face_11.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/remi/emoji_face/emoji_face_12.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/remi/emoji_face/emoji_face_2.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/remi/emoji_face/emoji_face_3.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/remi/emoji_face/emoji_face_4.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/remi/emoji_face/emoji_face_5.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/remi/emoji_face/emoji_face_6.png"
+        },
+        {
+          "id": 9,
+          "imageUrl": "sticker_local/remi/emoji_face/emoji_face_7.png"
+        },
+        {
+          "id": 10,
+          "imageUrl": "sticker_local/remi/emoji_face/emoji_face_8.png"
+        },
+        {
+          "id": 11,
+          "imageUrl": "sticker_local/remi/emoji_face/emoji_face_9.png"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Remi Fox",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/remi/emoji_fox/emoji_fox_1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/remi/emoji_fox/emoji_fox_2.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/remi/emoji_fox/emoji_fox_3.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/remi/emoji_fox/emoji_fox_4.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/remi/emoji_fox/emoji_fox_5.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/remi/emoji_fox/emoji_fox_6.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/remi/emoji_fox/emoji_fox_7.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/remi/emoji_fox/emoji_fox_8.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/remi/emoji_fox/emoji_fox_9.png"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Remi Frankenstein",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/remi/emoji_frankenstein/emoji_frankenstein_1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/remi/emoji_frankenstein/emoji_frankenstein_2.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/remi/emoji_frankenstein/emoji_frankenstein_3.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/remi/emoji_frankenstein/emoji_frankenstein_4.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/remi/emoji_frankenstein/emoji_frankenstein_5.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/remi/emoji_frankenstein/emoji_frankenstein_6.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/remi/emoji_frankenstein/emoji_frankenstein_7.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/remi/emoji_frankenstein/emoji_frankenstein_8.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/remi/emoji_frankenstein/emoji_frankenstein_9.png"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Remi Ghost",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/remi/emoji_ghost/emoji_ghost_1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/remi/emoji_ghost/emoji_ghost_2.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/remi/emoji_ghost/emoji_ghost_3.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/remi/emoji_ghost/emoji_ghost_4.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/remi/emoji_ghost/emoji_ghost_5.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/remi/emoji_ghost/emoji_ghost_6.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/remi/emoji_ghost/emoji_ghost_7.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/remi/emoji_ghost/emoji_ghost_8.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/remi/emoji_ghost/emoji_ghost_9.png"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Remi Heart",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/remi/emoji_heart/emoji_heart_1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/remi/emoji_heart/emoji_heart_2.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/remi/emoji_heart/emoji_heart_3.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/remi/emoji_heart/emoji_heart_4.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/remi/emoji_heart/emoji_heart_5.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/remi/emoji_heart/emoji_heart_6.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/remi/emoji_heart/emoji_heart_7.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/remi/emoji_heart/emoji_heart_8.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/remi/emoji_heart/emoji_heart_9.png"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Remi Icon",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/remi/emoji_icon/emoji_icon_1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/remi/emoji_icon/emoji_icon_2.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/remi/emoji_icon/emoji_icon_3.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/remi/emoji_icon/emoji_icon_4.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/remi/emoji_icon/emoji_icon_5.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/remi/emoji_icon/emoji_icon_6.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/remi/emoji_icon/emoji_icon_7.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/remi/emoji_icon/emoji_icon_8.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/remi/emoji_icon/emoji_icon_9.png"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Remi Pillow",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/remi/emoji_pillow/emoji_pillow_1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/remi/emoji_pillow/emoji_pillow_2.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/remi/emoji_pillow/emoji_pillow_3.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/remi/emoji_pillow/emoji_pillow_4.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/remi/emoji_pillow/emoji_pillow_5.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/remi/emoji_pillow/emoji_pillow_6.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/remi/emoji_pillow/emoji_pillow_7.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/remi/emoji_pillow/emoji_pillow_8.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/remi/emoji_pillow/emoji_pillow_9.png"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Remi Pumpkin",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/remi/emoji_pumpkin/emoji_pumpkin_1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/remi/emoji_pumpkin/emoji_pumpkin_2.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/remi/emoji_pumpkin/emoji_pumpkin_3.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/remi/emoji_pumpkin/emoji_pumpkin_4.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/remi/emoji_pumpkin/emoji_pumpkin_5.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/remi/emoji_pumpkin/emoji_pumpkin_6.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/remi/emoji_pumpkin/emoji_pumpkin_7.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/remi/emoji_pumpkin/emoji_pumpkin_8.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/remi/emoji_pumpkin/emoji_pumpkin_9.png"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Remi Santa",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/remi/emoji_santa/emoji_santa_1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/remi/emoji_santa/emoji_santa_2.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/remi/emoji_santa/emoji_santa_3.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/remi/emoji_santa/emoji_santa_4.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/remi/emoji_santa/emoji_santa_5.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/remi/emoji_santa/emoji_santa_6.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/remi/emoji_santa/emoji_santa_7.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/remi/emoji_santa/emoji_santa_8.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/remi/emoji_santa/emoji_santa_9.png"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Remi Tiger",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/remi/emoji_tiger/emoji_tiger_1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/remi/emoji_tiger/emoji_tiger_2.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/remi/emoji_tiger/emoji_tiger_3.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/remi/emoji_tiger/emoji_tiger_4.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/remi/emoji_tiger/emoji_tiger_5.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/remi/emoji_tiger/emoji_tiger_6.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/remi/emoji_tiger/emoji_tiger_7.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/remi/emoji_tiger/emoji_tiger_8.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/remi/emoji_tiger/emoji_tiger_9.png"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Remi Title",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/remi/emoji_title/title_emoji_bear.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/remi/emoji_title/title_emoji_cat.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/remi/emoji_title/title_emoji_chicken.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/remi/emoji_title/title_emoji_face.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/remi/emoji_title/title_emoji_fox.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/remi/emoji_title/title_emoji_frankenstein.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/remi/emoji_title/title_emoji_ghost.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/remi/emoji_title/title_emoji_heart.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/remi/emoji_title/title_emoji_icon.png"
+        },
+        {
+          "id": 9,
+          "imageUrl": "sticker_local/remi/emoji_title/title_emoji_pillow.png"
+        },
+        {
+          "id": 10,
+          "imageUrl": "sticker_local/remi/emoji_title/title_emoji_pumpkin.png"
+        },
+        {
+          "id": 11,
+          "imageUrl": "sticker_local/remi/emoji_title/title_emoji_santa.png"
+        },
+        {
+          "id": 12,
+          "imageUrl": "sticker_local/remi/emoji_title/title_emoji_tiger.png"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "PhotoCollage Cat",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/collage/cat/catpower1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/collage/cat/catpower10.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/collage/cat/catpower11.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/collage/cat/catpower12.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/collage/cat/catpower13.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/collage/cat/catpower14.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/collage/cat/catpower15.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/collage/cat/catpower16.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/collage/cat/catpower17.png"
+        },
+        {
+          "id": 9,
+          "imageUrl": "sticker_local/collage/cat/catpower18.png"
+        },
+        {
+          "id": 10,
+          "imageUrl": "sticker_local/collage/cat/catpower19.png"
+        },
+        {
+          "id": 11,
+          "imageUrl": "sticker_local/collage/cat/catpower2.png"
+        },
+        {
+          "id": 12,
+          "imageUrl": "sticker_local/collage/cat/catpower20.png"
+        },
+        {
+          "id": 13,
+          "imageUrl": "sticker_local/collage/cat/catpower21.png"
+        },
+        {
+          "id": 14,
+          "imageUrl": "sticker_local/collage/cat/catpower22.png"
+        },
+        {
+          "id": 15,
+          "imageUrl": "sticker_local/collage/cat/catpower23.png"
+        },
+        {
+          "id": 16,
+          "imageUrl": "sticker_local/collage/cat/catpower24.png"
+        },
+        {
+          "id": 17,
+          "imageUrl": "sticker_local/collage/cat/catpower25.png"
+        },
+        {
+          "id": 18,
+          "imageUrl": "sticker_local/collage/cat/catpower3.png"
+        },
+        {
+          "id": 19,
+          "imageUrl": "sticker_local/collage/cat/catpower4.png"
+        },
+        {
+          "id": 20,
+          "imageUrl": "sticker_local/collage/cat/catpower5.png"
+        },
+        {
+          "id": 21,
+          "imageUrl": "sticker_local/collage/cat/catpower6.png"
+        },
+        {
+          "id": 22,
+          "imageUrl": "sticker_local/collage/cat/catpower7.png"
+        },
+        {
+          "id": 23,
+          "imageUrl": "sticker_local/collage/cat/catpower8.png"
+        },
+        {
+          "id": 24,
+          "imageUrl": "sticker_local/collage/cat/catpower9.png"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "PhotoCollage Chicken",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/collage/chicken/carchicken1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/collage/chicken/carchicken10.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/collage/chicken/carchicken11.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/collage/chicken/carchicken12.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/collage/chicken/carchicken13.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/collage/chicken/carchicken14.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/collage/chicken/carchicken15.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/collage/chicken/carchicken16.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/collage/chicken/carchicken17.png"
+        },
+        {
+          "id": 9,
+          "imageUrl": "sticker_local/collage/chicken/carchicken18.png"
+        },
+        {
+          "id": 10,
+          "imageUrl": "sticker_local/collage/chicken/carchicken19.png"
+        },
+        {
+          "id": 11,
+          "imageUrl": "sticker_local/collage/chicken/carchicken2.png"
+        },
+        {
+          "id": 12,
+          "imageUrl": "sticker_local/collage/chicken/carchicken20.png"
+        },
+        {
+          "id": 13,
+          "imageUrl": "sticker_local/collage/chicken/carchicken21.png"
+        },
+        {
+          "id": 14,
+          "imageUrl": "sticker_local/collage/chicken/carchicken22.png"
+        },
+        {
+          "id": 15,
+          "imageUrl": "sticker_local/collage/chicken/carchicken23.png"
+        },
+        {
+          "id": 16,
+          "imageUrl": "sticker_local/collage/chicken/carchicken24.png"
+        },
+        {
+          "id": 17,
+          "imageUrl": "sticker_local/collage/chicken/carchicken25.png"
+        },
+        {
+          "id": 18,
+          "imageUrl": "sticker_local/collage/chicken/carchicken3.png"
+        },
+        {
+          "id": 19,
+          "imageUrl": "sticker_local/collage/chicken/carchicken4.png"
+        },
+        {
+          "id": 20,
+          "imageUrl": "sticker_local/collage/chicken/carchicken5.png"
+        },
+        {
+          "id": 21,
+          "imageUrl": "sticker_local/collage/chicken/carchicken6.png"
+        },
+        {
+          "id": 22,
+          "imageUrl": "sticker_local/collage/chicken/carchicken7.png"
+        },
+        {
+          "id": 23,
+          "imageUrl": "sticker_local/collage/chicken/carchicken8.png"
+        },
+        {
+          "id": 24,
+          "imageUrl": "sticker_local/collage/chicken/carchicken9.png"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "PhotoCollage Dog",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/collage/dog/Lovdog1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/collage/dog/Lovdog10.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/collage/dog/Lovdog11.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/collage/dog/Lovdog12.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/collage/dog/Lovdog13.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/collage/dog/Lovdog14.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/collage/dog/Lovdog15.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/collage/dog/Lovdog16.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/collage/dog/Lovdog17.png"
+        },
+        {
+          "id": 9,
+          "imageUrl": "sticker_local/collage/dog/Lovdog18.png"
+        },
+        {
+          "id": 10,
+          "imageUrl": "sticker_local/collage/dog/Lovdog19.png"
+        },
+        {
+          "id": 11,
+          "imageUrl": "sticker_local/collage/dog/Lovdog2.png"
+        },
+        {
+          "id": 12,
+          "imageUrl": "sticker_local/collage/dog/Lovdog20.png"
+        },
+        {
+          "id": 13,
+          "imageUrl": "sticker_local/collage/dog/Lovdog21.png"
+        },
+        {
+          "id": 14,
+          "imageUrl": "sticker_local/collage/dog/Lovdog22.png"
+        },
+        {
+          "id": 15,
+          "imageUrl": "sticker_local/collage/dog/Lovdog23.png"
+        },
+        {
+          "id": 16,
+          "imageUrl": "sticker_local/collage/dog/Lovdog24.png"
+        },
+        {
+          "id": 17,
+          "imageUrl": "sticker_local/collage/dog/Lovdog25.png"
+        },
+        {
+          "id": 18,
+          "imageUrl": "sticker_local/collage/dog/Lovdog3.png"
+        },
+        {
+          "id": 19,
+          "imageUrl": "sticker_local/collage/dog/Lovdog4.png"
+        },
+        {
+          "id": 20,
+          "imageUrl": "sticker_local/collage/dog/Lovdog5.png"
+        },
+        {
+          "id": 21,
+          "imageUrl": "sticker_local/collage/dog/Lovdog6.png"
+        },
+        {
+          "id": 22,
+          "imageUrl": "sticker_local/collage/dog/Lovdog7.png"
+        },
+        {
+          "id": 23,
+          "imageUrl": "sticker_local/collage/dog/Lovdog8.png"
+        },
+        {
+          "id": 24,
+          "imageUrl": "sticker_local/collage/dog/Lovdog9.png"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "PhotoCollage Emoji",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/collage/emoji/emoji1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/collage/emoji/emoji10.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/collage/emoji/emoji11.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/collage/emoji/emoji12.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/collage/emoji/emoji13.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/collage/emoji/emoji14.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/collage/emoji/emoji15.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/collage/emoji/emoji16.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/collage/emoji/emoji17.png"
+        },
+        {
+          "id": 9,
+          "imageUrl": "sticker_local/collage/emoji/emoji18.png"
+        },
+        {
+          "id": 10,
+          "imageUrl": "sticker_local/collage/emoji/emoji19.png"
+        },
+        {
+          "id": 11,
+          "imageUrl": "sticker_local/collage/emoji/emoji2.png"
+        },
+        {
+          "id": 12,
+          "imageUrl": "sticker_local/collage/emoji/emoji20.png"
+        },
+        {
+          "id": 13,
+          "imageUrl": "sticker_local/collage/emoji/emoji21.png"
+        },
+        {
+          "id": 14,
+          "imageUrl": "sticker_local/collage/emoji/emoji22.png"
+        },
+        {
+          "id": 15,
+          "imageUrl": "sticker_local/collage/emoji/emoji23.png"
+        },
+        {
+          "id": 16,
+          "imageUrl": "sticker_local/collage/emoji/emoji24.png"
+        },
+        {
+          "id": 17,
+          "imageUrl": "sticker_local/collage/emoji/emoji25.png"
+        },
+        {
+          "id": 18,
+          "imageUrl": "sticker_local/collage/emoji/emoji26.png"
+        },
+        {
+          "id": 19,
+          "imageUrl": "sticker_local/collage/emoji/emoji27.png"
+        },
+        {
+          "id": 20,
+          "imageUrl": "sticker_local/collage/emoji/emoji28.png"
+        },
+        {
+          "id": 21,
+          "imageUrl": "sticker_local/collage/emoji/emoji29.png"
+        },
+        {
+          "id": 22,
+          "imageUrl": "sticker_local/collage/emoji/emoji3.png"
+        },
+        {
+          "id": 23,
+          "imageUrl": "sticker_local/collage/emoji/emoji30.png"
+        },
+        {
+          "id": 24,
+          "imageUrl": "sticker_local/collage/emoji/emoji31.png"
+        },
+        {
+          "id": 25,
+          "imageUrl": "sticker_local/collage/emoji/emoji32.png"
+        },
+        {
+          "id": 26,
+          "imageUrl": "sticker_local/collage/emoji/emoji33.png"
+        },
+        {
+          "id": 27,
+          "imageUrl": "sticker_local/collage/emoji/emoji34.png"
+        },
+        {
+          "id": 28,
+          "imageUrl": "sticker_local/collage/emoji/emoji35.png"
+        },
+        {
+          "id": 29,
+          "imageUrl": "sticker_local/collage/emoji/emoji36.png"
+        },
+        {
+          "id": 30,
+          "imageUrl": "sticker_local/collage/emoji/emoji37.png"
+        },
+        {
+          "id": 31,
+          "imageUrl": "sticker_local/collage/emoji/emoji39.png"
+        },
+        {
+          "id": 32,
+          "imageUrl": "sticker_local/collage/emoji/emoji4.png"
+        },
+        {
+          "id": 33,
+          "imageUrl": "sticker_local/collage/emoji/emoji40.png"
+        },
+        {
+          "id": 34,
+          "imageUrl": "sticker_local/collage/emoji/emoji48.png"
+        },
+        {
+          "id": 35,
+          "imageUrl": "sticker_local/collage/emoji/emoji5.png"
+        },
+        {
+          "id": 36,
+          "imageUrl": "sticker_local/collage/emoji/emoji6.png"
+        },
+        {
+          "id": 37,
+          "imageUrl": "sticker_local/collage/emoji/emoji7.png"
+        },
+        {
+          "id": 38,
+          "imageUrl": "sticker_local/collage/emoji/emoji8.png"
+        },
+        {
+          "id": 39,
+          "imageUrl": "sticker_local/collage/emoji/emoji9.png"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "PhotoCollage Tusk",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker_local/collage/tusk/tusk1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker_local/collage/tusk/tusk10.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker_local/collage/tusk/tusk11.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker_local/collage/tusk/tusk12.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker_local/collage/tusk/tusk13.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker_local/collage/tusk/tusk14.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker_local/collage/tusk/tusk15.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker_local/collage/tusk/tusk16.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker_local/collage/tusk/tusk17.png"
+        },
+        {
+          "id": 9,
+          "imageUrl": "sticker_local/collage/tusk/tusk18.png"
+        },
+        {
+          "id": 10,
+          "imageUrl": "sticker_local/collage/tusk/tusk19.png"
+        },
+        {
+          "id": 11,
+          "imageUrl": "sticker_local/collage/tusk/tusk2.png"
+        },
+        {
+          "id": 12,
+          "imageUrl": "sticker_local/collage/tusk/tusk20.png"
+        },
+        {
+          "id": 13,
+          "imageUrl": "sticker_local/collage/tusk/tusk21.png"
+        },
+        {
+          "id": 14,
+          "imageUrl": "sticker_local/collage/tusk/tusk22.png"
+        },
+        {
+          "id": 15,
+          "imageUrl": "sticker_local/collage/tusk/tusk23.png"
+        },
+        {
+          "id": 16,
+          "imageUrl": "sticker_local/collage/tusk/tusk24.png"
+        },
+        {
+          "id": 17,
+          "imageUrl": "sticker_local/collage/tusk/tusk25.png"
+        },
+        {
+          "id": 18,
+          "imageUrl": "sticker_local/collage/tusk/tusk3.png"
+        },
+        {
+          "id": 19,
+          "imageUrl": "sticker_local/collage/tusk/tusk4.png"
+        },
+        {
+          "id": 20,
+          "imageUrl": "sticker_local/collage/tusk/tusk5.png"
+        },
+        {
+          "id": 21,
+          "imageUrl": "sticker_local/collage/tusk/tusk6.png"
+        },
+        {
+          "id": 22,
+          "imageUrl": "sticker_local/collage/tusk/tusk7.png"
+        },
+        {
+          "id": 23,
+          "imageUrl": "sticker_local/collage/tusk/tusk8.png"
+        },
+        {
+          "id": 24,
+          "imageUrl": "sticker_local/collage/tusk/tusk9.png"
+        }
+      ]
+    }
+  ],
+  "brush": [
+    {
+      "id": 0,
+      "name": "Brush 1",
+      "thumbnailUrl": "brush/thumnail_brush_1.png",
+      "textureUrl": ""
+    },
+    {
+      "id": 1,
+      "name": "Brush 2",
+      "thumbnailUrl": "brush/thumnail_brush_2.png",
+      "textureUrl": ""
+    },
+    {
+      "id": 2,
+      "name": "Brush 3",
+      "thumbnailUrl": "brush/thumnail_brush_3.png",
+      "textureUrl": "brush/brush_3_1.png"
+    },
+    {
+      "id": 3,
+      "name": "Brush 4",
+      "thumbnailUrl": "brush/thumnail_brush_4.png",
+      "textureUrl": "brush/brush_4_1.png"
+    },
+    {
+      "id": 4,
+      "name": "Brush 5",
+      "thumbnailUrl": "brush/thumnail_brush_5.png",
+      "textureUrl": "brush/brush_5_1.png"
+    },
+    {
+      "id": 5,
+      "name": "Brush 6",
+      "thumbnailUrl": "brush/thumnail_brush_6.png",
+      "textureUrl": "brush/brush_6_1.png"
+    },
+    {
+      "id": 6,
+      "name": "Brush 7",
+      "thumbnailUrl": "brush/thumnail_brush_7.png",
+      "textureUrl": "brush/brush_7_1.png"
+    },
+    {
+      "id": 7,
+      "name": "Brush 8",
+      "thumbnailUrl": "brush/thumnail_brush_8.png",
+      "textureUrl": "brush/brush_8_1.png"
+    },
+    {
+      "id": 8,
+      "name": "Brush 9",
+      "thumbnailUrl": "brush/thumnail_brush_9.png",
+      "textureUrl": "brush/brush_9_1.png"
     }
   ]
 }
