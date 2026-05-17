@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "baseUrl": "https://raw.githubusercontent.com/Sai09082001/UltraCameraData/master/",
   "frame": [
     {
@@ -1993,7 +1993,7 @@
     },
     {
       "id": 3,
-      "name": "Remi Bear",
+      "name": "Bear",
       "items": [
         {
           "id": 0,
@@ -2031,7 +2031,7 @@
     },
     {
       "id": 4,
-      "name": "Remi Cat",
+      "name": "Cat",
       "items": [
         {
           "id": 0,
@@ -2068,12 +2068,112 @@
         {
           "id": 8,
           "imageUrl": "sticker_local/remi/emoji_cat/emoji_cat_9.png"
+        },
+        {
+          "id": 9,
+          "imageUrl": "sticker_local/collage/cat/catpower1.png"
+        },
+        {
+          "id": 10,
+          "imageUrl": "sticker_local/collage/cat/catpower10.png"
+        },
+        {
+          "id": 11,
+          "imageUrl": "sticker_local/collage/cat/catpower11.png"
+        },
+        {
+          "id": 12,
+          "imageUrl": "sticker_local/collage/cat/catpower12.png"
+        },
+        {
+          "id": 13,
+          "imageUrl": "sticker_local/collage/cat/catpower13.png"
+        },
+        {
+          "id": 14,
+          "imageUrl": "sticker_local/collage/cat/catpower14.png"
+        },
+        {
+          "id": 15,
+          "imageUrl": "sticker_local/collage/cat/catpower15.png"
+        },
+        {
+          "id": 16,
+          "imageUrl": "sticker_local/collage/cat/catpower16.png"
+        },
+        {
+          "id": 17,
+          "imageUrl": "sticker_local/collage/cat/catpower17.png"
+        },
+        {
+          "id": 18,
+          "imageUrl": "sticker_local/collage/cat/catpower18.png"
+        },
+        {
+          "id": 19,
+          "imageUrl": "sticker_local/collage/cat/catpower19.png"
+        },
+        {
+          "id": 20,
+          "imageUrl": "sticker_local/collage/cat/catpower2.png"
+        },
+        {
+          "id": 21,
+          "imageUrl": "sticker_local/collage/cat/catpower20.png"
+        },
+        {
+          "id": 22,
+          "imageUrl": "sticker_local/collage/cat/catpower21.png"
+        },
+        {
+          "id": 23,
+          "imageUrl": "sticker_local/collage/cat/catpower22.png"
+        },
+        {
+          "id": 24,
+          "imageUrl": "sticker_local/collage/cat/catpower23.png"
+        },
+        {
+          "id": 25,
+          "imageUrl": "sticker_local/collage/cat/catpower24.png"
+        },
+        {
+          "id": 26,
+          "imageUrl": "sticker_local/collage/cat/catpower25.png"
+        },
+        {
+          "id": 27,
+          "imageUrl": "sticker_local/collage/cat/catpower3.png"
+        },
+        {
+          "id": 28,
+          "imageUrl": "sticker_local/collage/cat/catpower4.png"
+        },
+        {
+          "id": 29,
+          "imageUrl": "sticker_local/collage/cat/catpower5.png"
+        },
+        {
+          "id": 30,
+          "imageUrl": "sticker_local/collage/cat/catpower6.png"
+        },
+        {
+          "id": 31,
+          "imageUrl": "sticker_local/collage/cat/catpower7.png"
+        },
+        {
+          "id": 32,
+          "imageUrl": "sticker_local/collage/cat/catpower8.png"
+        },
+        {
+          "id": 33,
+          "imageUrl": "sticker_local/collage/cat/catpower9.png"
         }
       ]
     },
     {
       "id": 5,
-      "name": "Remi Chicken",
+      "name": "Chicken",
       "items": [
         {
           "id": 0,
@@ -2110,12 +2210,112 @@
         {
           "id": 8,
           "imageUrl": "sticker_local/remi/emoji_chicken/emoji_chicken_9.png"
+        },
+        {
+          "id": 9,
+          "imageUrl": "sticker_local/collage/chicken/carchicken1.png"
+        },
+        {
+          "id": 10,
+          "imageUrl": "sticker_local/collage/chicken/carchicken10.png"
+        },
+        {
+          "id": 11,
+          "imageUrl": "sticker_local/collage/chicken/carchicken11.png"
+        },
+        {
+          "id": 12,
+          "imageUrl": "sticker_local/collage/chicken/carchicken12.png"
+        },
+        {
+          "id": 13,
+          "imageUrl": "sticker_local/collage/chicken/carchicken13.png"
+        },
+        {
+          "id": 14,
+          "imageUrl": "sticker_local/collage/chicken/carchicken14.png"
+        },
+        {
+          "id": 15,
+          "imageUrl": "sticker_local/collage/chicken/carchicken15.png"
+        },
+        {
+          "id": 16,
+          "imageUrl": "sticker_local/collage/chicken/carchicken16.png"
+        },
+        {
+          "id": 17,
+          "imageUrl": "sticker_local/collage/chicken/carchicken17.png"
+        },
+        {
+          "id": 18,
+          "imageUrl": "sticker_local/collage/chicken/carchicken18.png"
+        },
+        {
+          "id": 19,
+          "imageUrl": "sticker_local/collage/chicken/carchicken19.png"
+        },
+        {
+          "id": 20,
+          "imageUrl": "sticker_local/collage/chicken/carchicken2.png"
+        },
+        {
+          "id": 21,
+          "imageUrl": "sticker_local/collage/chicken/carchicken20.png"
+        },
+        {
+          "id": 22,
+          "imageUrl": "sticker_local/collage/chicken/carchicken21.png"
+        },
+        {
+          "id": 23,
+          "imageUrl": "sticker_local/collage/chicken/carchicken22.png"
+        },
+        {
+          "id": 24,
+          "imageUrl": "sticker_local/collage/chicken/carchicken23.png"
+        },
+        {
+          "id": 25,
+          "imageUrl": "sticker_local/collage/chicken/carchicken24.png"
+        },
+        {
+          "id": 26,
+          "imageUrl": "sticker_local/collage/chicken/carchicken25.png"
+        },
+        {
+          "id": 27,
+          "imageUrl": "sticker_local/collage/chicken/carchicken3.png"
+        },
+        {
+          "id": 28,
+          "imageUrl": "sticker_local/collage/chicken/carchicken4.png"
+        },
+        {
+          "id": 29,
+          "imageUrl": "sticker_local/collage/chicken/carchicken5.png"
+        },
+        {
+          "id": 30,
+          "imageUrl": "sticker_local/collage/chicken/carchicken6.png"
+        },
+        {
+          "id": 31,
+          "imageUrl": "sticker_local/collage/chicken/carchicken7.png"
+        },
+        {
+          "id": 32,
+          "imageUrl": "sticker_local/collage/chicken/carchicken8.png"
+        },
+        {
+          "id": 33,
+          "imageUrl": "sticker_local/collage/chicken/carchicken9.png"
         }
       ]
     },
     {
       "id": 6,
-      "name": "Remi Face",
+      "name": "Face",
       "items": [
         {
           "id": 0,
@@ -2169,7 +2369,7 @@
     },
     {
       "id": 7,
-      "name": "Remi Fox",
+      "name": "Fox",
       "items": [
         {
           "id": 0,
@@ -2211,7 +2411,7 @@
     },
     {
       "id": 8,
-      "name": "Remi Frankenstein",
+      "name": "Frankenstein",
       "items": [
         {
           "id": 0,
@@ -2253,7 +2453,7 @@
     },
     {
       "id": 9,
-      "name": "Remi Ghost",
+      "name": "Ghost",
       "items": [
         {
           "id": 0,
@@ -2295,7 +2495,7 @@
     },
     {
       "id": 10,
-      "name": "Remi Heart",
+      "name": "Heart",
       "items": [
         {
           "id": 0,
@@ -2337,7 +2537,7 @@
     },
     {
       "id": 11,
-      "name": "Remi Icon",
+      "name": "Icon",
       "items": [
         {
           "id": 0,
@@ -2379,7 +2579,7 @@
     },
     {
       "id": 12,
-      "name": "Remi Pillow",
+      "name": "Pillow",
       "items": [
         {
           "id": 0,
@@ -2421,7 +2621,7 @@
     },
     {
       "id": 13,
-      "name": "Remi Pumpkin",
+      "name": "Pumpkin",
       "items": [
         {
           "id": 0,
@@ -2463,7 +2663,7 @@
     },
     {
       "id": 14,
-      "name": "Remi Santa",
+      "name": "Santa",
       "items": [
         {
           "id": 0,
@@ -2505,7 +2705,7 @@
     },
     {
       "id": 15,
-      "name": "Remi Tiger",
+      "name": "Tiger",
       "items": [
         {
           "id": 0,
@@ -2547,7 +2747,7 @@
     },
     {
       "id": 16,
-      "name": "Remi Title",
+      "name": "Title",
       "items": [
         {
           "id": 0,
@@ -2605,219 +2805,7 @@
     },
     {
       "id": 17,
-      "name": "PhotoCollage Cat",
-      "items": [
-        {
-          "id": 0,
-          "imageUrl": "sticker_local/collage/cat/catpower1.png"
-        },
-        {
-          "id": 1,
-          "imageUrl": "sticker_local/collage/cat/catpower10.png"
-        },
-        {
-          "id": 2,
-          "imageUrl": "sticker_local/collage/cat/catpower11.png"
-        },
-        {
-          "id": 3,
-          "imageUrl": "sticker_local/collage/cat/catpower12.png"
-        },
-        {
-          "id": 4,
-          "imageUrl": "sticker_local/collage/cat/catpower13.png"
-        },
-        {
-          "id": 5,
-          "imageUrl": "sticker_local/collage/cat/catpower14.png"
-        },
-        {
-          "id": 6,
-          "imageUrl": "sticker_local/collage/cat/catpower15.png"
-        },
-        {
-          "id": 7,
-          "imageUrl": "sticker_local/collage/cat/catpower16.png"
-        },
-        {
-          "id": 8,
-          "imageUrl": "sticker_local/collage/cat/catpower17.png"
-        },
-        {
-          "id": 9,
-          "imageUrl": "sticker_local/collage/cat/catpower18.png"
-        },
-        {
-          "id": 10,
-          "imageUrl": "sticker_local/collage/cat/catpower19.png"
-        },
-        {
-          "id": 11,
-          "imageUrl": "sticker_local/collage/cat/catpower2.png"
-        },
-        {
-          "id": 12,
-          "imageUrl": "sticker_local/collage/cat/catpower20.png"
-        },
-        {
-          "id": 13,
-          "imageUrl": "sticker_local/collage/cat/catpower21.png"
-        },
-        {
-          "id": 14,
-          "imageUrl": "sticker_local/collage/cat/catpower22.png"
-        },
-        {
-          "id": 15,
-          "imageUrl": "sticker_local/collage/cat/catpower23.png"
-        },
-        {
-          "id": 16,
-          "imageUrl": "sticker_local/collage/cat/catpower24.png"
-        },
-        {
-          "id": 17,
-          "imageUrl": "sticker_local/collage/cat/catpower25.png"
-        },
-        {
-          "id": 18,
-          "imageUrl": "sticker_local/collage/cat/catpower3.png"
-        },
-        {
-          "id": 19,
-          "imageUrl": "sticker_local/collage/cat/catpower4.png"
-        },
-        {
-          "id": 20,
-          "imageUrl": "sticker_local/collage/cat/catpower5.png"
-        },
-        {
-          "id": 21,
-          "imageUrl": "sticker_local/collage/cat/catpower6.png"
-        },
-        {
-          "id": 22,
-          "imageUrl": "sticker_local/collage/cat/catpower7.png"
-        },
-        {
-          "id": 23,
-          "imageUrl": "sticker_local/collage/cat/catpower8.png"
-        },
-        {
-          "id": 24,
-          "imageUrl": "sticker_local/collage/cat/catpower9.png"
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "name": "PhotoCollage Chicken",
-      "items": [
-        {
-          "id": 0,
-          "imageUrl": "sticker_local/collage/chicken/carchicken1.png"
-        },
-        {
-          "id": 1,
-          "imageUrl": "sticker_local/collage/chicken/carchicken10.png"
-        },
-        {
-          "id": 2,
-          "imageUrl": "sticker_local/collage/chicken/carchicken11.png"
-        },
-        {
-          "id": 3,
-          "imageUrl": "sticker_local/collage/chicken/carchicken12.png"
-        },
-        {
-          "id": 4,
-          "imageUrl": "sticker_local/collage/chicken/carchicken13.png"
-        },
-        {
-          "id": 5,
-          "imageUrl": "sticker_local/collage/chicken/carchicken14.png"
-        },
-        {
-          "id": 6,
-          "imageUrl": "sticker_local/collage/chicken/carchicken15.png"
-        },
-        {
-          "id": 7,
-          "imageUrl": "sticker_local/collage/chicken/carchicken16.png"
-        },
-        {
-          "id": 8,
-          "imageUrl": "sticker_local/collage/chicken/carchicken17.png"
-        },
-        {
-          "id": 9,
-          "imageUrl": "sticker_local/collage/chicken/carchicken18.png"
-        },
-        {
-          "id": 10,
-          "imageUrl": "sticker_local/collage/chicken/carchicken19.png"
-        },
-        {
-          "id": 11,
-          "imageUrl": "sticker_local/collage/chicken/carchicken2.png"
-        },
-        {
-          "id": 12,
-          "imageUrl": "sticker_local/collage/chicken/carchicken20.png"
-        },
-        {
-          "id": 13,
-          "imageUrl": "sticker_local/collage/chicken/carchicken21.png"
-        },
-        {
-          "id": 14,
-          "imageUrl": "sticker_local/collage/chicken/carchicken22.png"
-        },
-        {
-          "id": 15,
-          "imageUrl": "sticker_local/collage/chicken/carchicken23.png"
-        },
-        {
-          "id": 16,
-          "imageUrl": "sticker_local/collage/chicken/carchicken24.png"
-        },
-        {
-          "id": 17,
-          "imageUrl": "sticker_local/collage/chicken/carchicken25.png"
-        },
-        {
-          "id": 18,
-          "imageUrl": "sticker_local/collage/chicken/carchicken3.png"
-        },
-        {
-          "id": 19,
-          "imageUrl": "sticker_local/collage/chicken/carchicken4.png"
-        },
-        {
-          "id": 20,
-          "imageUrl": "sticker_local/collage/chicken/carchicken5.png"
-        },
-        {
-          "id": 21,
-          "imageUrl": "sticker_local/collage/chicken/carchicken6.png"
-        },
-        {
-          "id": 22,
-          "imageUrl": "sticker_local/collage/chicken/carchicken7.png"
-        },
-        {
-          "id": 23,
-          "imageUrl": "sticker_local/collage/chicken/carchicken8.png"
-        },
-        {
-          "id": 24,
-          "imageUrl": "sticker_local/collage/chicken/carchicken9.png"
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "name": "PhotoCollage Dog",
+      "name": "Dog",
       "items": [
         {
           "id": 0,
@@ -2922,8 +2910,8 @@
       ]
     },
     {
-      "id": 20,
-      "name": "PhotoCollage Emoji",
+      "id": 18,
+      "name": "Emoji",
       "items": [
         {
           "id": 0,
@@ -3088,8 +3076,8 @@
       ]
     },
     {
-      "id": 21,
-      "name": "PhotoCollage Tusk",
+      "id": 19,
+      "name": "Tusk",
       "items": [
         {
           "id": 0,
