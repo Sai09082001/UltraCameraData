@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "baseUrl": "https://raw.githubusercontent.com/Sai09082001/UltraCameraData/master/",
   "frame": [
     {
@@ -1500,6 +1500,324 @@
         {
           "id": 6,
           "imageUrl": "background_local/img_filter_demo.webp"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "City",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "background/City/img_city_1.webp"
+        },
+        {
+          "id": 1,
+          "imageUrl": "background/City/img_city_2.webp"
+        },
+        {
+          "id": 2,
+          "imageUrl": "background/City/img_city_3.webp"
+        },
+        {
+          "id": 3,
+          "imageUrl": "background/City/img_city_4.webp"
+        },
+        {
+          "id": 4,
+          "imageUrl": "background/City/img_city_5.webp"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Cute",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "background/Cute/img_cute_1.webp"
+        },
+        {
+          "id": 1,
+          "imageUrl": "background/Cute/img_cute_2.webp"
+        },
+        {
+          "id": 2,
+          "imageUrl": "background/Cute/img_cute_3.webp"
+        },
+        {
+          "id": 3,
+          "imageUrl": "background/Cute/img_cute_4.webp"
+        },
+        {
+          "id": 4,
+          "imageUrl": "background/Cute/img_cute_5.webp"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Fantasy",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "background/Fantasy/img_fantasy_1.webp"
+        },
+        {
+          "id": 1,
+          "imageUrl": "background/Fantasy/img_fantasy_2.webp"
+        },
+        {
+          "id": 2,
+          "imageUrl": "background/Fantasy/img_fantasy_3.webp"
+        },
+        {
+          "id": 3,
+          "imageUrl": "background/Fantasy/img_fantasy_4.webp"
+        },
+        {
+          "id": 4,
+          "imageUrl": "background/Fantasy/img_fantasy_5.webp"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Galaxy",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "background/Galaxy/img_galaxy_1.webp"
+        },
+        {
+          "id": 1,
+          "imageUrl": "background/Galaxy/img_galaxy_2.webp"
+        },
+        {
+          "id": 2,
+          "imageUrl": "background/Galaxy/img_galaxy_3.webp"
+        },
+        {
+          "id": 3,
+          "imageUrl": "background/Galaxy/img_galaxy_4.webp"
+        },
+        {
+          "id": 4,
+          "imageUrl": "background/Galaxy/img_galaxy_5.webp"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Horrified",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "background/Horrified/img_horrified_1.webp"
+        },
+        {
+          "id": 1,
+          "imageUrl": "background/Horrified/img_horrified_2.webp"
+        },
+        {
+          "id": 2,
+          "imageUrl": "background/Horrified/img_horrified_3.webp"
+        },
+        {
+          "id": 3,
+          "imageUrl": "background/Horrified/img_horrified_4.webp"
+        },
+        {
+          "id": 4,
+          "imageUrl": "background/Horrified/img_horrified_5.webp"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Landscape",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "background/Landscape/img_scenery_1.webp"
+        },
+        {
+          "id": 1,
+          "imageUrl": "background/Landscape/img_scenery_2.webp"
+        },
+        {
+          "id": 2,
+          "imageUrl": "background/Landscape/img_scenery_3.webp"
+        },
+        {
+          "id": 3,
+          "imageUrl": "background/Landscape/img_scenery_4.webp"
+        },
+        {
+          "id": 4,
+          "imageUrl": "background/Landscape/img_scenery_5.webp"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Nature",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "background/Nature/img_nature_1.webp"
+        },
+        {
+          "id": 1,
+          "imageUrl": "background/Nature/img_nature_2.webp"
+        },
+        {
+          "id": 2,
+          "imageUrl": "background/Nature/img_nature_3.webp"
+        },
+        {
+          "id": 3,
+          "imageUrl": "background/Nature/img_nature_4.webp"
+        },
+        {
+          "id": 4,
+          "imageUrl": "background/Nature/img_nature_5.webp"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Noel",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "background/Noel/img_xmas_1.webp"
+        },
+        {
+          "id": 1,
+          "imageUrl": "background/Noel/img_xmas_2.webp"
+        },
+        {
+          "id": 2,
+          "imageUrl": "background/Noel/img_xmas_3.webp"
+        },
+        {
+          "id": 3,
+          "imageUrl": "background/Noel/img_xmas_4.webp"
+        },
+        {
+          "id": 4,
+          "imageUrl": "background/Noel/img_xmas_5.webp"
+        },
+        {
+          "id": 5,
+          "imageUrl": "background/Noel/img_xmas_6.webp"
+        },
+        {
+          "id": 6,
+          "imageUrl": "background/Noel/xmas1.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "background/Noel/xmas2.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "background/Noel/xmas3.png"
+        },
+        {
+          "id": 9,
+          "imageUrl": "background/Noel/xmas4.png"
+        },
+        {
+          "id": 10,
+          "imageUrl": "background/Noel/xmas5.png"
+        },
+        {
+          "id": 11,
+          "imageUrl": "background/Noel/xmas.png"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Sky",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "background/Sky/img_sky_1.webp"
+        },
+        {
+          "id": 1,
+          "imageUrl": "background/Sky/img_sky_2.webp"
+        },
+        {
+          "id": 2,
+          "imageUrl": "background/Sky/img_sky_3.webp"
+        },
+        {
+          "id": 3,
+          "imageUrl": "background/Sky/img_sky_4.webp"
+        },
+        {
+          "id": 4,
+          "imageUrl": "background/Sky/img_sky_5.webp"
+        },
+        {
+          "id": 5,
+          "imageUrl": "background/Sky/img_sky_6.webp"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Valentine",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "background/Valentine/img_valentine_1.webp"
+        },
+        {
+          "id": 1,
+          "imageUrl": "background/Valentine/img_valentine_2.webp"
+        },
+        {
+          "id": 2,
+          "imageUrl": "background/Valentine/img_valentine_3.webp"
+        },
+        {
+          "id": 3,
+          "imageUrl": "background/Valentine/img_valentine_4.webp"
+        },
+        {
+          "id": 4,
+          "imageUrl": "background/Valentine/img_valentine_5.webp"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Winter",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "background/Winter/img_winter_1.webp"
+        },
+        {
+          "id": 1,
+          "imageUrl": "background/Winter/img_winter_2.webp"
+        },
+        {
+          "id": 2,
+          "imageUrl": "background/Winter/img_winter_3.webp"
+        },
+        {
+          "id": 3,
+          "imageUrl": "background/Winter/img_winter_4.webp"
+        },
+        {
+          "id": 4,
+          "imageUrl": "background/Winter/img_winter_5.webp"
         }
       ]
     }
