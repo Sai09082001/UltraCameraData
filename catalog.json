@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "baseUrl": "https://raw.githubusercontent.com/Sai09082001/UltraCameraData/master/",
   "frame": [
     {
@@ -1820,6 +1820,52 @@
           "imageUrl": "background/Winter/img_winter_5.webp"
         }
       ]
+    },
+    {
+      "id": 18,
+      "name": "WorldCup",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "background/WorldCup/1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "background/WorldCup/2.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "background/WorldCup/3.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "background/WorldCup/4.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "background/WorldCup/5.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "background/WorldCup/6.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "background/WorldCup/7.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "background/WorldCup/8.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "background/WorldCup/9.png"
+        },
+        {
+          "id": 9,
+          "imageUrl": "background/WorldCup/10.png"
+        }
+      ]
     }
   ],
   "sticker": [
@@ -3496,6 +3542,52 @@
         {
           "id": 24,
           "imageUrl": "sticker_local/collage/tusk/tusk9.png"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "WorldCup",
+      "items": [
+        {
+          "id": 0,
+          "imageUrl": "sticker/WorldCup/1.png"
+        },
+        {
+          "id": 1,
+          "imageUrl": "sticker/WorldCup/2.png"
+        },
+        {
+          "id": 2,
+          "imageUrl": "sticker/WorldCup/3.png"
+        },
+        {
+          "id": 3,
+          "imageUrl": "sticker/WorldCup/4.png"
+        },
+        {
+          "id": 4,
+          "imageUrl": "sticker/WorldCup/5.png"
+        },
+        {
+          "id": 5,
+          "imageUrl": "sticker/WorldCup/6.png"
+        },
+        {
+          "id": 6,
+          "imageUrl": "sticker/WorldCup/7.png"
+        },
+        {
+          "id": 7,
+          "imageUrl": "sticker/WorldCup/8.png"
+        },
+        {
+          "id": 8,
+          "imageUrl": "sticker/WorldCup/9.png"
+        },
+        {
+          "id": 9,
+          "imageUrl": "sticker/WorldCup/10.png"
         }
       ]
     }
