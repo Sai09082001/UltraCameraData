@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "baseUrl": "https://raw.githubusercontent.com/Sai09082001/UltraCameraData/master/",
   "frame": [
     {
@@ -1827,43 +1827,43 @@
       "items": [
         {
           "id": 0,
-          "imageUrl": "background/WorldCup/1.png"
+          "imageUrl": "background/WorldCup/1.webp"
         },
         {
           "id": 1,
-          "imageUrl": "background/WorldCup/2.png"
+          "imageUrl": "background/WorldCup/2.webp"
         },
         {
           "id": 2,
-          "imageUrl": "background/WorldCup/3.png"
+          "imageUrl": "background/WorldCup/3.webp"
         },
         {
           "id": 3,
-          "imageUrl": "background/WorldCup/4.png"
+          "imageUrl": "background/WorldCup/4.webp"
         },
         {
           "id": 4,
-          "imageUrl": "background/WorldCup/5.png"
+          "imageUrl": "background/WorldCup/5.webp"
         },
         {
           "id": 5,
-          "imageUrl": "background/WorldCup/6.png"
+          "imageUrl": "background/WorldCup/6.webp"
         },
         {
           "id": 6,
-          "imageUrl": "background/WorldCup/7.png"
+          "imageUrl": "background/WorldCup/7.webp"
         },
         {
           "id": 7,
-          "imageUrl": "background/WorldCup/8.png"
+          "imageUrl": "background/WorldCup/8.webp"
         },
         {
           "id": 8,
-          "imageUrl": "background/WorldCup/9.png"
+          "imageUrl": "background/WorldCup/9.webp"
         },
         {
           "id": 9,
-          "imageUrl": "background/WorldCup/10.png"
+          "imageUrl": "background/WorldCup/10.webp"
         }
       ]
     }
@@ -3551,43 +3551,43 @@
       "items": [
         {
           "id": 0,
-          "imageUrl": "sticker/WorldCup/1.png"
+          "imageUrl": "sticker/WorldCup/1.webp"
         },
         {
           "id": 1,
-          "imageUrl": "sticker/WorldCup/2.png"
+          "imageUrl": "sticker/WorldCup/2.webp"
         },
         {
           "id": 2,
-          "imageUrl": "sticker/WorldCup/3.png"
+          "imageUrl": "sticker/WorldCup/3.webp"
         },
         {
           "id": 3,
-          "imageUrl": "sticker/WorldCup/4.png"
+          "imageUrl": "sticker/WorldCup/4.webp"
         },
         {
           "id": 4,
-          "imageUrl": "sticker/WorldCup/5.png"
+          "imageUrl": "sticker/WorldCup/5.webp"
         },
         {
           "id": 5,
-          "imageUrl": "sticker/WorldCup/6.png"
+          "imageUrl": "sticker/WorldCup/6.webp"
         },
         {
           "id": 6,
-          "imageUrl": "sticker/WorldCup/7.png"
+          "imageUrl": "sticker/WorldCup/7.webp"
         },
         {
           "id": 7,
-          "imageUrl": "sticker/WorldCup/8.png"
+          "imageUrl": "sticker/WorldCup/8.webp"
         },
         {
           "id": 8,
-          "imageUrl": "sticker/WorldCup/9.png"
+          "imageUrl": "sticker/WorldCup/9.webp"
         },
         {
           "id": 9,
-          "imageUrl": "sticker/WorldCup/10.png"
+          "imageUrl": "sticker/WorldCup/10.webp"
         }
       ]
     }
